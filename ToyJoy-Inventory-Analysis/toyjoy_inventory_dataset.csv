@@ -1,0 +1,721 @@
+ProductID,ProductName,Category,StoreID,Date,UnitsSold,UnitsInStock,UnitCost,UnitPrice,Season
+P001,Action Hero X,Action Figures,S01,2022-01-01,45,320,250,599,Off-Season
+P001,Action Hero X,Action Figures,S01,2022-02-01,40,280,250,599,Off-Season
+P001,Action Hero X,Action Figures,S01,2022-03-01,55,225,250,599,Off-Season
+P001,Action Hero X,Action Figures,S01,2022-04-01,60,165,250,599,Off-Season
+P001,Action Hero X,Action Figures,S01,2022-05-01,70,95,250,599,Summer
+P001,Action Hero X,Action Figures,S01,2022-06-01,85,310,250,599,Summer
+P001,Action Hero X,Action Figures,S01,2022-07-01,90,220,250,599,Summer
+P001,Action Hero X,Action Figures,S01,2022-08-01,75,145,250,599,Summer
+P001,Action Hero X,Action Figures,S01,2022-09-01,50,95,250,599,Off-Season
+P001,Action Hero X,Action Figures,S01,2022-10-01,110,385,250,599,Festive
+P001,Action Hero X,Action Figures,S01,2022-11-01,150,235,250,599,Festive
+P001,Action Hero X,Action Figures,S01,2022-12-01,180,55,250,599,Christmas
+P001,Action Hero X,Action Figures,S01,2023-01-01,48,310,250,599,Off-Season
+P001,Action Hero X,Action Figures,S01,2023-02-01,42,268,250,599,Off-Season
+P001,Action Hero X,Action Figures,S01,2023-03-01,58,210,250,599,Off-Season
+P001,Action Hero X,Action Figures,S01,2023-04-01,63,147,250,599,Off-Season
+P001,Action Hero X,Action Figures,S01,2023-05-01,72,75,250,599,Summer
+P001,Action Hero X,Action Figures,S01,2023-06-01,88,287,250,599,Summer
+P001,Action Hero X,Action Figures,S01,2023-07-01,95,192,250,599,Summer
+P001,Action Hero X,Action Figures,S01,2023-08-01,78,114,250,599,Summer
+P001,Action Hero X,Action Figures,S01,2023-09-01,52,62,250,599,Off-Season
+P001,Action Hero X,Action Figures,S01,2023-10-01,115,347,250,599,Festive
+P001,Action Hero X,Action Figures,S01,2023-11-01,158,189,250,599,Festive
+P001,Action Hero X,Action Figures,S01,2023-12-01,192,0,250,599,Christmas
+P001,Action Hero X,Action Figures,S01,2024-01-01,50,300,250,649,Off-Season
+P001,Action Hero X,Action Figures,S01,2024-02-01,45,255,250,649,Off-Season
+P001,Action Hero X,Action Figures,S01,2024-03-01,60,195,250,649,Off-Season
+P001,Action Hero X,Action Figures,S01,2024-04-01,65,130,250,649,Off-Season
+P001,Action Hero X,Action Figures,S01,2024-05-01,75,55,250,649,Summer
+P001,Action Hero X,Action Figures,S01,2024-06-01,92,363,250,649,Summer
+P001,Action Hero X,Action Figures,S01,2024-07-01,98,265,250,649,Summer
+P001,Action Hero X,Action Figures,S01,2024-08-01,82,183,250,649,Summer
+P001,Action Hero X,Action Figures,S01,2024-09-01,55,128,250,649,Off-Season
+P001,Action Hero X,Action Figures,S01,2024-10-01,120,408,250,649,Festive
+P001,Action Hero X,Action Figures,S01,2024-11-01,165,243,250,649,Festive
+P001,Action Hero X,Action Figures,S01,2024-12-01,200,43,250,649,Christmas
+P002,Battle Bot Z,Action Figures,S01,2022-01-01,30,450,300,749,Off-Season
+P002,Battle Bot Z,Action Figures,S01,2022-02-01,28,422,300,749,Off-Season
+P002,Battle Bot Z,Action Figures,S01,2022-03-01,35,387,300,749,Off-Season
+P002,Battle Bot Z,Action Figures,S01,2022-04-01,32,355,300,749,Off-Season
+P002,Battle Bot Z,Action Figures,S01,2022-05-01,40,315,300,749,Summer
+P002,Battle Bot Z,Action Figures,S01,2022-06-01,55,260,300,749,Summer
+P002,Battle Bot Z,Action Figures,S01,2022-07-01,60,200,300,749,Summer
+P002,Battle Bot Z,Action Figures,S01,2022-08-01,48,152,300,749,Summer
+P002,Battle Bot Z,Action Figures,S01,2022-09-01,35,117,300,749,Off-Season
+P002,Battle Bot Z,Action Figures,S01,2022-10-01,90,427,300,749,Festive
+P002,Battle Bot Z,Action Figures,S01,2022-11-01,120,307,300,749,Festive
+P002,Battle Bot Z,Action Figures,S01,2022-12-01,140,167,300,749,Christmas
+P002,Battle Bot Z,Action Figures,S01,2023-01-01,32,435,300,749,Off-Season
+P002,Battle Bot Z,Action Figures,S01,2023-02-01,29,406,300,749,Off-Season
+P002,Battle Bot Z,Action Figures,S01,2023-03-01,37,369,300,749,Off-Season
+P002,Battle Bot Z,Action Figures,S01,2023-04-01,34,335,300,749,Off-Season
+P002,Battle Bot Z,Action Figures,S01,2023-05-01,42,293,300,749,Summer
+P002,Battle Bot Z,Action Figures,S01,2023-06-01,58,235,300,749,Summer
+P002,Battle Bot Z,Action Figures,S01,2023-07-01,63,172,300,749,Summer
+P002,Battle Bot Z,Action Figures,S01,2023-08-01,50,122,300,749,Summer
+P002,Battle Bot Z,Action Figures,S01,2023-09-01,37,85,300,749,Off-Season
+P002,Battle Bot Z,Action Figures,S01,2023-10-01,95,390,300,749,Festive
+P002,Battle Bot Z,Action Figures,S01,2023-11-01,125,265,300,749,Festive
+P002,Battle Bot Z,Action Figures,S01,2023-12-01,148,117,300,749,Christmas
+P002,Battle Bot Z,Action Figures,S01,2024-01-01,33,400,300,799,Off-Season
+P002,Battle Bot Z,Action Figures,S01,2024-02-01,30,370,300,799,Off-Season
+P002,Battle Bot Z,Action Figures,S01,2024-03-01,38,332,300,799,Off-Season
+P002,Battle Bot Z,Action Figures,S01,2024-04-01,35,297,300,799,Off-Season
+P002,Battle Bot Z,Action Figures,S01,2024-05-01,44,253,300,799,Summer
+P002,Battle Bot Z,Action Figures,S01,2024-06-01,60,193,300,799,Summer
+P002,Battle Bot Z,Action Figures,S01,2024-07-01,65,128,300,799,Summer
+P002,Battle Bot Z,Action Figures,S01,2024-08-01,52,76,300,799,Summer
+P002,Battle Bot Z,Action Figures,S01,2024-09-01,38,38,300,799,Off-Season
+P002,Battle Bot Z,Action Figures,S01,2024-10-01,98,340,300,799,Festive
+P002,Battle Bot Z,Action Figures,S01,2024-11-01,130,210,300,799,Festive
+P002,Battle Bot Z,Action Figures,S01,2024-12-01,155,55,300,799,Christmas
+P003,Mega Warrior,Action Figures,S02,2022-01-01,20,600,350,899,Off-Season
+P003,Mega Warrior,Action Figures,S02,2022-02-01,18,582,350,899,Off-Season
+P003,Mega Warrior,Action Figures,S02,2022-03-01,22,560,350,899,Off-Season
+P003,Mega Warrior,Action Figures,S02,2022-04-01,20,540,350,899,Off-Season
+P003,Mega Warrior,Action Figures,S02,2022-05-01,25,515,350,899,Summer
+P003,Mega Warrior,Action Figures,S02,2022-06-01,30,485,350,899,Summer
+P003,Mega Warrior,Action Figures,S02,2022-07-01,35,450,350,899,Summer
+P003,Mega Warrior,Action Figures,S02,2022-08-01,28,422,350,899,Summer
+P003,Mega Warrior,Action Figures,S02,2022-09-01,22,400,350,899,Off-Season
+P003,Mega Warrior,Action Figures,S02,2022-10-01,45,555,350,899,Festive
+P003,Mega Warrior,Action Figures,S02,2022-11-01,60,495,350,899,Festive
+P003,Mega Warrior,Action Figures,S02,2022-12-01,70,425,350,899,Christmas
+P003,Mega Warrior,Action Figures,S02,2023-01-01,21,604,350,899,Off-Season
+P003,Mega Warrior,Action Figures,S02,2023-02-01,19,585,350,899,Off-Season
+P003,Mega Warrior,Action Figures,S02,2023-03-01,23,562,350,899,Off-Season
+P003,Mega Warrior,Action Figures,S02,2023-04-01,21,541,350,899,Off-Season
+P003,Mega Warrior,Action Figures,S02,2023-05-01,26,515,350,899,Summer
+P003,Mega Warrior,Action Figures,S02,2023-06-01,32,483,350,899,Summer
+P003,Mega Warrior,Action Figures,S02,2023-07-01,37,446,350,899,Summer
+P003,Mega Warrior,Action Figures,S02,2023-08-01,29,417,350,899,Summer
+P003,Mega Warrior,Action Figures,S02,2023-09-01,23,394,350,899,Off-Season
+P003,Mega Warrior,Action Figures,S02,2023-10-01,47,547,350,899,Festive
+P003,Mega Warrior,Action Figures,S02,2023-11-01,63,484,350,899,Festive
+P003,Mega Warrior,Action Figures,S02,2023-12-01,74,410,350,899,Christmas
+P003,Mega Warrior,Action Figures,S02,2024-01-01,22,588,350,949,Off-Season
+P003,Mega Warrior,Action Figures,S02,2024-02-01,20,568,350,949,Off-Season
+P003,Mega Warrior,Action Figures,S02,2024-03-01,24,544,350,949,Off-Season
+P003,Mega Warrior,Action Figures,S02,2024-04-01,22,522,350,949,Off-Season
+P003,Mega Warrior,Action Figures,S02,2024-05-01,27,495,350,949,Summer
+P003,Mega Warrior,Action Figures,S02,2024-06-01,33,462,350,949,Summer
+P003,Mega Warrior,Action Figures,S02,2024-07-01,38,424,350,949,Summer
+P003,Mega Warrior,Action Figures,S02,2024-08-01,30,394,350,949,Summer
+P003,Mega Warrior,Action Figures,S02,2024-09-01,24,370,350,949,Off-Season
+P003,Mega Warrior,Action Figures,S02,2024-10-01,49,521,350,949,Festive
+P003,Mega Warrior,Action Figures,S02,2024-11-01,66,455,350,949,Festive
+P003,Mega Warrior,Action Figures,S02,2024-12-01,78,377,350,949,Christmas
+P004,Space Ranger,Action Figures,S02,2022-01-01,55,280,200,499,Off-Season
+P004,Space Ranger,Action Figures,S02,2022-02-01,50,230,200,499,Off-Season
+P004,Space Ranger,Action Figures,S02,2022-03-01,65,165,200,499,Off-Season
+P004,Space Ranger,Action Figures,S02,2022-04-01,70,95,200,499,Off-Season
+P004,Space Ranger,Action Figures,S02,2022-05-01,80,15,200,499,Summer
+P004,Space Ranger,Action Figures,S02,2022-06-01,95,320,200,499,Summer
+P004,Space Ranger,Action Figures,S02,2022-07-01,105,215,200,499,Summer
+P004,Space Ranger,Action Figures,S02,2022-08-01,88,127,200,499,Summer
+P004,Space Ranger,Action Figures,S02,2022-09-01,60,67,200,499,Off-Season
+P004,Space Ranger,Action Figures,S02,2022-10-01,130,337,200,499,Festive
+P004,Space Ranger,Action Figures,S02,2022-11-01,170,167,200,499,Festive
+P004,Space Ranger,Action Figures,S02,2022-12-01,160,7,200,499,Christmas
+P004,Space Ranger,Action Figures,S02,2023-01-01,57,273,200,499,Off-Season
+P004,Space Ranger,Action Figures,S02,2023-02-01,52,221,200,499,Off-Season
+P004,Space Ranger,Action Figures,S02,2023-03-01,67,154,200,499,Off-Season
+P004,Space Ranger,Action Figures,S02,2023-04-01,72,82,200,499,Off-Season
+P004,Space Ranger,Action Figures,S02,2023-05-01,82,0,200,499,Summer
+P004,Space Ranger,Action Figures,S02,2023-06-01,98,302,200,499,Summer
+P004,Space Ranger,Action Figures,S02,2023-07-01,108,194,200,499,Summer
+P004,Space Ranger,Action Figures,S02,2023-08-01,90,104,200,499,Summer
+P004,Space Ranger,Action Figures,S02,2023-09-01,62,42,200,499,Off-Season
+P004,Space Ranger,Action Figures,S02,2023-10-01,135,307,200,499,Festive
+P004,Space Ranger,Action Figures,S02,2023-11-01,175,132,200,499,Festive
+P004,Space Ranger,Action Figures,S02,2023-12-01,165,0,200,499,Christmas
+P004,Space Ranger,Action Figures,S02,2024-01-01,60,240,200,549,Off-Season
+P004,Space Ranger,Action Figures,S02,2024-02-01,55,185,200,549,Off-Season
+P004,Space Ranger,Action Figures,S02,2024-03-01,70,115,200,549,Off-Season
+P004,Space Ranger,Action Figures,S02,2024-04-01,75,40,200,549,Off-Season
+P004,Space Ranger,Action Figures,S02,2024-05-01,85,0,200,549,Summer
+P004,Space Ranger,Action Figures,S02,2024-06-01,100,300,200,549,Summer
+P004,Space Ranger,Action Figures,S02,2024-07-01,112,188,200,549,Summer
+P004,Space Ranger,Action Figures,S02,2024-08-01,93,95,200,549,Summer
+P004,Space Ranger,Action Figures,S02,2024-09-01,65,30,200,549,Off-Season
+P004,Space Ranger,Action Figures,S02,2024-10-01,140,290,200,549,Festive
+P004,Space Ranger,Action Figures,S02,2024-11-01,180,110,200,549,Festive
+P004,Space Ranger,Action Figures,S02,2024-12-01,172,0,200,549,Christmas
+P005,Ninja Strike,Action Figures,S03,2022-01-01,38,350,220,549,Off-Season
+P005,Ninja Strike,Action Figures,S03,2022-02-01,35,315,220,549,Off-Season
+P005,Ninja Strike,Action Figures,S03,2022-03-01,42,273,220,549,Off-Season
+P005,Ninja Strike,Action Figures,S03,2022-04-01,45,228,220,549,Off-Season
+P005,Ninja Strike,Action Figures,S03,2022-05-01,55,173,220,549,Summer
+P005,Ninja Strike,Action Figures,S03,2022-06-01,70,103,220,549,Summer
+P005,Ninja Strike,Action Figures,S03,2022-07-01,78,25,220,549,Summer
+P005,Ninja Strike,Action Figures,S03,2022-08-01,62,263,220,549,Summer
+P005,Ninja Strike,Action Figures,S03,2022-09-01,42,221,220,549,Off-Season
+P005,Ninja Strike,Action Figures,S03,2022-10-01,100,321,220,549,Festive
+P005,Ninja Strike,Action Figures,S03,2022-11-01,135,186,220,549,Festive
+P005,Ninja Strike,Action Figures,S03,2022-12-01,155,31,220,549,Christmas
+P005,Ninja Strike,Action Figures,S03,2023-01-01,40,341,220,549,Off-Season
+P005,Ninja Strike,Action Figures,S03,2023-02-01,37,304,220,549,Off-Season
+P005,Ninja Strike,Action Figures,S03,2023-03-01,44,260,220,549,Off-Season
+P005,Ninja Strike,Action Figures,S03,2023-04-01,47,213,220,549,Off-Season
+P005,Ninja Strike,Action Figures,S03,2023-05-01,57,156,220,549,Summer
+P005,Ninja Strike,Action Figures,S03,2023-06-01,73,83,220,549,Summer
+P005,Ninja Strike,Action Figures,S03,2023-07-01,80,3,220,549,Summer
+P005,Ninja Strike,Action Figures,S03,2023-08-01,64,239,220,549,Summer
+P005,Ninja Strike,Action Figures,S03,2023-09-01,44,195,220,549,Off-Season
+P005,Ninja Strike,Action Figures,S03,2023-10-01,105,290,220,549,Festive
+P005,Ninja Strike,Action Figures,S03,2023-11-01,140,150,220,549,Festive
+P005,Ninja Strike,Action Figures,S03,2023-12-01,162,0,220,549,Christmas
+P005,Ninja Strike,Action Figures,S03,2024-01-01,42,308,220,599,Off-Season
+P005,Ninja Strike,Action Figures,S03,2024-02-01,38,270,220,599,Off-Season
+P005,Ninja Strike,Action Figures,S03,2024-03-01,46,224,220,599,Off-Season
+P005,Ninja Strike,Action Figures,S03,2024-04-01,49,175,220,599,Off-Season
+P005,Ninja Strike,Action Figures,S03,2024-05-01,59,116,220,599,Summer
+P005,Ninja Strike,Action Figures,S03,2024-06-01,76,40,220,599,Summer
+P005,Ninja Strike,Action Figures,S03,2024-07-01,83,0,220,599,Summer
+P005,Ninja Strike,Action Figures,S03,2024-08-01,67,233,220,599,Summer
+P005,Ninja Strike,Action Figures,S03,2024-09-01,46,187,220,599,Off-Season
+P005,Ninja Strike,Action Figures,S03,2024-10-01,110,277,220,599,Festive
+P005,Ninja Strike,Action Figures,S03,2024-11-01,148,129,220,599,Festive
+P005,Ninja Strike,Action Figures,S03,2024-12-01,170,0,220,599,Christmas
+P006,Classic 500,Puzzles,S01,2022-01-01,25,500,150,349,Off-Season
+P006,Classic 500,Puzzles,S01,2022-02-01,22,478,150,349,Off-Season
+P006,Classic 500,Puzzles,S01,2022-03-01,28,450,150,349,Off-Season
+P006,Classic 500,Puzzles,S01,2022-04-01,30,420,150,349,Off-Season
+P006,Classic 500,Puzzles,S01,2022-05-01,20,400,150,349,Summer
+P006,Classic 500,Puzzles,S01,2022-06-01,18,382,150,349,Summer
+P006,Classic 500,Puzzles,S01,2022-07-01,15,367,150,349,Summer
+P006,Classic 500,Puzzles,S01,2022-08-01,18,349,150,349,Summer
+P006,Classic 500,Puzzles,S01,2022-09-01,35,314,150,349,Off-Season
+P006,Classic 500,Puzzles,S01,2022-10-01,55,459,150,349,Festive
+P006,Classic 500,Puzzles,S01,2022-11-01,70,389,150,349,Festive
+P006,Classic 500,Puzzles,S01,2022-12-01,90,299,150,349,Christmas
+P006,Classic 500,Puzzles,S01,2023-01-01,26,473,150,349,Off-Season
+P006,Classic 500,Puzzles,S01,2023-02-01,23,450,150,349,Off-Season
+P006,Classic 500,Puzzles,S01,2023-03-01,29,421,150,349,Off-Season
+P006,Classic 500,Puzzles,S01,2023-04-01,31,390,150,349,Off-Season
+P006,Classic 500,Puzzles,S01,2023-05-01,21,369,150,349,Summer
+P006,Classic 500,Puzzles,S01,2023-06-01,19,350,150,349,Summer
+P006,Classic 500,Puzzles,S01,2023-07-01,16,334,150,349,Summer
+P006,Classic 500,Puzzles,S01,2023-08-01,19,315,150,349,Summer
+P006,Classic 500,Puzzles,S01,2023-09-01,36,279,150,349,Off-Season
+P006,Classic 500,Puzzles,S01,2023-10-01,58,421,150,349,Festive
+P006,Classic 500,Puzzles,S01,2023-11-01,74,347,150,349,Festive
+P006,Classic 500,Puzzles,S01,2023-12-01,95,252,150,349,Christmas
+P006,Classic 500,Puzzles,S01,2024-01-01,27,425,150,399,Off-Season
+P006,Classic 500,Puzzles,S01,2024-02-01,24,401,150,399,Off-Season
+P006,Classic 500,Puzzles,S01,2024-03-01,30,371,150,399,Off-Season
+P006,Classic 500,Puzzles,S01,2024-04-01,32,339,150,399,Off-Season
+P006,Classic 500,Puzzles,S01,2024-05-01,22,317,150,399,Summer
+P006,Classic 500,Puzzles,S01,2024-06-01,20,297,150,399,Summer
+P006,Classic 500,Puzzles,S01,2024-07-01,17,280,150,399,Summer
+P006,Classic 500,Puzzles,S01,2024-08-01,20,260,150,399,Summer
+P006,Classic 500,Puzzles,S01,2024-09-01,37,223,150,399,Off-Season
+P006,Classic 500,Puzzles,S01,2024-10-01,60,383,150,399,Festive
+P006,Classic 500,Puzzles,S01,2024-11-01,78,305,150,399,Festive
+P006,Classic 500,Puzzles,S01,2024-12-01,100,205,150,399,Christmas
+P007,Dino World 1000,Puzzles,S02,2022-01-01,40,420,180,429,Off-Season
+P007,Dino World 1000,Puzzles,S02,2022-02-01,38,382,180,429,Off-Season
+P007,Dino World 1000,Puzzles,S02,2022-03-01,45,337,180,429,Off-Season
+P007,Dino World 1000,Puzzles,S02,2022-04-01,42,295,180,429,Off-Season
+P007,Dino World 1000,Puzzles,S02,2022-05-01,30,265,180,429,Summer
+P007,Dino World 1000,Puzzles,S02,2022-06-01,28,237,180,429,Summer
+P007,Dino World 1000,Puzzles,S02,2022-07-01,25,212,180,429,Summer
+P007,Dino World 1000,Puzzles,S02,2022-08-01,28,184,180,429,Summer
+P007,Dino World 1000,Puzzles,S02,2022-09-01,50,334,180,429,Off-Season
+P007,Dino World 1000,Puzzles,S02,2022-10-01,80,454,180,429,Festive
+P007,Dino World 1000,Puzzles,S02,2022-11-01,100,354,180,429,Festive
+P007,Dino World 1000,Puzzles,S02,2022-12-01,120,234,180,429,Christmas
+P007,Dino World 1000,Puzzles,S02,2023-01-01,42,392,180,429,Off-Season
+P007,Dino World 1000,Puzzles,S02,2023-02-01,40,352,180,429,Off-Season
+P007,Dino World 1000,Puzzles,S02,2023-03-01,47,305,180,429,Off-Season
+P007,Dino World 1000,Puzzles,S02,2023-04-01,44,261,180,429,Off-Season
+P007,Dino World 1000,Puzzles,S02,2023-05-01,32,229,180,429,Summer
+P007,Dino World 1000,Puzzles,S02,2023-06-01,30,199,180,429,Summer
+P007,Dino World 1000,Puzzles,S02,2023-07-01,27,172,180,429,Summer
+P007,Dino World 1000,Puzzles,S02,2023-08-01,30,142,180,429,Summer
+P007,Dino World 1000,Puzzles,S02,2023-09-01,52,290,180,429,Off-Season
+P007,Dino World 1000,Puzzles,S02,2023-10-01,84,374,180,429,Festive
+P007,Dino World 1000,Puzzles,S02,2023-11-01,105,269,180,429,Festive
+P007,Dino World 1000,Puzzles,S02,2023-12-01,126,143,180,429,Christmas
+P007,Dino World 1000,Puzzles,S02,2024-01-01,44,299,180,479,Off-Season
+P007,Dino World 1000,Puzzles,S02,2024-02-01,41,258,180,479,Off-Season
+P007,Dino World 1000,Puzzles,S02,2024-03-01,49,209,180,479,Off-Season
+P007,Dino World 1000,Puzzles,S02,2024-04-01,46,163,180,479,Off-Season
+P007,Dino World 1000,Puzzles,S02,2024-05-01,33,130,180,479,Summer
+P007,Dino World 1000,Puzzles,S02,2024-06-01,31,99,180,479,Summer
+P007,Dino World 1000,Puzzles,S02,2024-07-01,28,71,180,479,Summer
+P007,Dino World 1000,Puzzles,S02,2024-08-01,31,40,180,479,Summer
+P007,Dino World 1000,Puzzles,S02,2024-09-01,54,286,180,479,Off-Season
+P007,Dino World 1000,Puzzles,S02,2024-10-01,88,398,180,479,Festive
+P007,Dino World 1000,Puzzles,S02,2024-11-01,110,288,180,479,Festive
+P007,Dino World 1000,Puzzles,S02,2024-12-01,132,156,180,479,Christmas
+P008,Space Explorer 3D,Puzzles,S03,2022-01-01,15,650,200,499,Off-Season
+P008,Space Explorer 3D,Puzzles,S03,2022-02-01,13,637,200,499,Off-Season
+P008,Space Explorer 3D,Puzzles,S03,2022-03-01,17,620,200,499,Off-Season
+P008,Space Explorer 3D,Puzzles,S03,2022-04-01,15,605,200,499,Off-Season
+P008,Space Explorer 3D,Puzzles,S03,2022-05-01,12,593,200,499,Summer
+P008,Space Explorer 3D,Puzzles,S03,2022-06-01,10,583,200,499,Summer
+P008,Space Explorer 3D,Puzzles,S03,2022-07-01,8,575,200,499,Summer
+P008,Space Explorer 3D,Puzzles,S03,2022-08-01,10,565,200,499,Summer
+P008,Space Explorer 3D,Puzzles,S03,2022-09-01,20,545,200,499,Off-Season
+P008,Space Explorer 3D,Puzzles,S03,2022-10-01,35,510,200,499,Festive
+P008,Space Explorer 3D,Puzzles,S03,2022-11-01,45,465,200,499,Festive
+P008,Space Explorer 3D,Puzzles,S03,2022-12-01,55,410,200,499,Christmas
+P008,Space Explorer 3D,Puzzles,S03,2023-01-01,15,595,200,499,Off-Season
+P008,Space Explorer 3D,Puzzles,S03,2023-02-01,13,582,200,499,Off-Season
+P008,Space Explorer 3D,Puzzles,S03,2023-03-01,17,565,200,499,Off-Season
+P008,Space Explorer 3D,Puzzles,S03,2023-04-01,15,550,200,499,Off-Season
+P008,Space Explorer 3D,Puzzles,S03,2023-05-01,12,538,200,499,Summer
+P008,Space Explorer 3D,Puzzles,S03,2023-06-01,10,528,200,499,Summer
+P008,Space Explorer 3D,Puzzles,S03,2023-07-01,8,520,200,499,Summer
+P008,Space Explorer 3D,Puzzles,S03,2023-08-01,10,510,200,499,Summer
+P008,Space Explorer 3D,Puzzles,S03,2023-09-01,20,490,200,499,Off-Season
+P008,Space Explorer 3D,Puzzles,S03,2023-10-01,36,454,200,499,Festive
+P008,Space Explorer 3D,Puzzles,S03,2023-11-01,46,408,200,499,Festive
+P008,Space Explorer 3D,Puzzles,S03,2023-12-01,56,352,200,499,Christmas
+P008,Space Explorer 3D,Puzzles,S03,2024-01-01,15,537,200,549,Off-Season
+P008,Space Explorer 3D,Puzzles,S03,2024-02-01,13,524,200,549,Off-Season
+P008,Space Explorer 3D,Puzzles,S03,2024-03-01,17,507,200,549,Off-Season
+P008,Space Explorer 3D,Puzzles,S03,2024-04-01,15,492,200,549,Off-Season
+P008,Space Explorer 3D,Puzzles,S03,2024-05-01,12,480,200,549,Summer
+P008,Space Explorer 3D,Puzzles,S03,2024-06-01,10,470,200,549,Summer
+P008,Space Explorer 3D,Puzzles,S03,2024-07-01,8,462,200,549,Summer
+P008,Space Explorer 3D,Puzzles,S03,2024-08-01,10,452,200,549,Summer
+P008,Space Explorer 3D,Puzzles,S03,2024-09-01,20,432,200,549,Off-Season
+P008,Space Explorer 3D,Puzzles,S03,2024-10-01,37,395,200,549,Festive
+P008,Space Explorer 3D,Puzzles,S03,2024-11-01,47,348,200,549,Festive
+P008,Space Explorer 3D,Puzzles,S03,2024-12-01,58,290,200,549,Christmas
+P009,Animal Kingdom,Puzzles,S01,2022-01-01,35,380,160,399,Off-Season
+P009,Animal Kingdom,Puzzles,S01,2022-02-01,32,348,160,399,Off-Season
+P009,Animal Kingdom,Puzzles,S01,2022-03-01,40,308,160,399,Off-Season
+P009,Animal Kingdom,Puzzles,S01,2022-04-01,38,270,160,399,Off-Season
+P009,Animal Kingdom,Puzzles,S01,2022-05-01,28,242,160,399,Summer
+P009,Animal Kingdom,Puzzles,S01,2022-06-01,25,217,160,399,Summer
+P009,Animal Kingdom,Puzzles,S01,2022-07-01,22,195,160,399,Summer
+P009,Animal Kingdom,Puzzles,S01,2022-08-01,25,170,160,399,Summer
+P009,Animal Kingdom,Puzzles,S01,2022-09-01,45,325,160,399,Off-Season
+P009,Animal Kingdom,Puzzles,S01,2022-10-01,70,455,160,399,Festive
+P009,Animal Kingdom,Puzzles,S01,2022-11-01,88,367,160,399,Festive
+P009,Animal Kingdom,Puzzles,S01,2022-12-01,105,262,160,399,Christmas
+P009,Animal Kingdom,Puzzles,S01,2023-01-01,36,376,160,399,Off-Season
+P009,Animal Kingdom,Puzzles,S01,2023-02-01,33,343,160,399,Off-Season
+P009,Animal Kingdom,Puzzles,S01,2023-03-01,41,302,160,399,Off-Season
+P009,Animal Kingdom,Puzzles,S01,2023-04-01,39,263,160,399,Off-Season
+P009,Animal Kingdom,Puzzles,S01,2023-05-01,29,234,160,399,Summer
+P009,Animal Kingdom,Puzzles,S01,2023-06-01,26,208,160,399,Summer
+P009,Animal Kingdom,Puzzles,S01,2023-07-01,23,185,160,399,Summer
+P009,Animal Kingdom,Puzzles,S01,2023-08-01,26,159,160,399,Summer
+P009,Animal Kingdom,Puzzles,S01,2023-09-01,46,313,160,399,Off-Season
+P009,Animal Kingdom,Puzzles,S01,2023-10-01,73,386,160,399,Festive
+P009,Animal Kingdom,Puzzles,S01,2023-11-01,92,294,160,399,Festive
+P009,Animal Kingdom,Puzzles,S01,2023-12-01,110,184,160,399,Christmas
+P009,Animal Kingdom,Puzzles,S01,2024-01-01,37,347,160,449,Off-Season
+P009,Animal Kingdom,Puzzles,S01,2024-02-01,34,313,160,449,Off-Season
+P009,Animal Kingdom,Puzzles,S01,2024-03-01,42,271,160,449,Off-Season
+P009,Animal Kingdom,Puzzles,S01,2024-04-01,40,231,160,449,Off-Season
+P009,Animal Kingdom,Puzzles,S01,2024-05-01,30,201,160,449,Summer
+P009,Animal Kingdom,Puzzles,S01,2024-06-01,27,174,160,449,Summer
+P009,Animal Kingdom,Puzzles,S01,2024-07-01,24,150,160,449,Summer
+P009,Animal Kingdom,Puzzles,S01,2024-08-01,27,123,160,449,Summer
+P009,Animal Kingdom,Puzzles,S01,2024-09-01,47,276,160,449,Off-Season
+P009,Animal Kingdom,Puzzles,S01,2024-10-01,76,352,160,449,Festive
+P009,Animal Kingdom,Puzzles,S01,2024-11-01,96,256,160,449,Festive
+P009,Animal Kingdom,Puzzles,S01,2024-12-01,115,141,160,449,Christmas
+P010,City Builder,Puzzles,S03,2022-01-01,50,300,170,419,Off-Season
+P010,City Builder,Puzzles,S03,2022-02-01,45,255,170,419,Off-Season
+P010,City Builder,Puzzles,S03,2022-03-01,55,200,170,419,Off-Season
+P010,City Builder,Puzzles,S03,2022-04-01,52,148,170,419,Off-Season
+P010,City Builder,Puzzles,S03,2022-05-01,38,110,170,419,Summer
+P010,City Builder,Puzzles,S03,2022-06-01,35,75,170,419,Summer
+P010,City Builder,Puzzles,S03,2022-07-01,30,45,170,419,Summer
+P010,City Builder,Puzzles,S03,2022-08-01,35,310,170,419,Summer
+P010,City Builder,Puzzles,S03,2022-09-01,60,450,170,419,Off-Season
+P010,City Builder,Puzzles,S03,2022-10-01,90,360,170,419,Festive
+P010,City Builder,Puzzles,S03,2022-11-01,110,250,170,419,Festive
+P010,City Builder,Puzzles,S03,2022-12-01,130,120,170,419,Christmas
+P010,City Builder,Puzzles,S03,2023-01-01,52,368,170,419,Off-Season
+P010,City Builder,Puzzles,S03,2023-02-01,47,321,170,419,Off-Season
+P010,City Builder,Puzzles,S03,2023-03-01,57,264,170,419,Off-Season
+P010,City Builder,Puzzles,S03,2023-04-01,54,210,170,419,Off-Season
+P010,City Builder,Puzzles,S03,2023-05-01,40,170,170,419,Summer
+P010,City Builder,Puzzles,S03,2023-06-01,37,133,170,419,Summer
+P010,City Builder,Puzzles,S03,2023-07-01,32,101,170,419,Summer
+P010,City Builder,Puzzles,S03,2023-08-01,37,364,170,419,Summer
+P010,City Builder,Puzzles,S03,2023-09-01,62,302,170,419,Off-Season
+P010,City Builder,Puzzles,S03,2023-10-01,94,408,170,419,Festive
+P010,City Builder,Puzzles,S03,2023-11-01,115,293,170,419,Festive
+P010,City Builder,Puzzles,S03,2023-12-01,136,157,170,419,Christmas
+P010,City Builder,Puzzles,S03,2024-01-01,54,303,170,469,Off-Season
+P010,City Builder,Puzzles,S03,2024-02-01,49,254,170,469,Off-Season
+P010,City Builder,Puzzles,S03,2024-03-01,59,195,170,469,Off-Season
+P010,City Builder,Puzzles,S03,2024-04-01,56,139,170,469,Off-Season
+P010,City Builder,Puzzles,S03,2024-05-01,41,98,170,469,Summer
+P010,City Builder,Puzzles,S03,2024-06-01,38,60,170,469,Summer
+P010,City Builder,Puzzles,S03,2024-07-01,33,27,170,469,Summer
+P010,City Builder,Puzzles,S03,2024-08-01,38,289,170,469,Summer
+P010,City Builder,Puzzles,S03,2024-09-01,64,425,170,469,Off-Season
+P010,City Builder,Puzzles,S03,2024-10-01,98,327,170,469,Festive
+P010,City Builder,Puzzles,S03,2024-11-01,120,207,170,469,Festive
+P010,City Builder,Puzzles,S03,2024-12-01,142,65,170,469,Christmas
+P011,Princess Dream,Dolls,S01,2022-01-01,60,400,180,449,Off-Season
+P011,Princess Dream,Dolls,S01,2022-02-01,55,345,180,449,Off-Season
+P011,Princess Dream,Dolls,S01,2022-03-01,65,280,180,449,Off-Season
+P011,Princess Dream,Dolls,S01,2022-04-01,70,210,180,449,Off-Season
+P011,Princess Dream,Dolls,S01,2022-05-01,80,130,180,449,Summer
+P011,Princess Dream,Dolls,S01,2022-06-01,90,40,180,449,Summer
+P011,Princess Dream,Dolls,S01,2022-07-01,85,355,180,449,Summer
+P011,Princess Dream,Dolls,S01,2022-08-01,75,280,180,449,Summer
+P011,Princess Dream,Dolls,S01,2022-09-01,55,225,180,449,Off-Season
+P011,Princess Dream,Dolls,S01,2022-10-01,120,405,180,449,Festive
+P011,Princess Dream,Dolls,S01,2022-11-01,160,245,180,449,Festive
+P011,Princess Dream,Dolls,S01,2022-12-01,190,55,180,449,Christmas
+P011,Princess Dream,Dolls,S01,2023-01-01,62,393,180,449,Off-Season
+P011,Princess Dream,Dolls,S01,2023-02-01,57,336,180,449,Off-Season
+P011,Princess Dream,Dolls,S01,2023-03-01,67,269,180,449,Off-Season
+P011,Princess Dream,Dolls,S01,2023-04-01,72,197,180,449,Off-Season
+P011,Princess Dream,Dolls,S01,2023-05-01,82,115,180,449,Summer
+P011,Princess Dream,Dolls,S01,2023-06-01,93,22,180,449,Summer
+P011,Princess Dream,Dolls,S01,2023-07-01,88,334,180,449,Summer
+P011,Princess Dream,Dolls,S01,2023-08-01,77,257,180,449,Summer
+P011,Princess Dream,Dolls,S01,2023-09-01,57,200,180,449,Off-Season
+P011,Princess Dream,Dolls,S01,2023-10-01,124,376,180,449,Festive
+P011,Princess Dream,Dolls,S01,2023-11-01,165,211,180,449,Festive
+P011,Princess Dream,Dolls,S01,2023-12-01,196,15,180,449,Christmas
+P011,Princess Dream,Dolls,S01,2024-01-01,64,351,180,499,Off-Season
+P011,Princess Dream,Dolls,S01,2024-02-01,59,292,180,499,Off-Season
+P011,Princess Dream,Dolls,S01,2024-03-01,69,223,180,499,Off-Season
+P011,Princess Dream,Dolls,S01,2024-04-01,74,149,180,499,Off-Season
+P011,Princess Dream,Dolls,S01,2024-05-01,84,65,180,499,Summer
+P011,Princess Dream,Dolls,S01,2024-06-01,96,369,180,499,Summer
+P011,Princess Dream,Dolls,S01,2024-07-01,90,279,180,499,Summer
+P011,Princess Dream,Dolls,S01,2024-08-01,79,200,180,499,Summer
+P011,Princess Dream,Dolls,S01,2024-09-01,59,141,180,499,Off-Season
+P011,Princess Dream,Dolls,S01,2024-10-01,128,369,180,499,Festive
+P011,Princess Dream,Dolls,S01,2024-11-01,170,199,180,499,Festive
+P011,Princess Dream,Dolls,S01,2024-12-01,202,0,180,499,Christmas
+P012,Baby Doll Sara,Dolls,S02,2022-01-01,45,350,150,379,Off-Season
+P012,Baby Doll Sara,Dolls,S02,2022-02-01,40,310,150,379,Off-Season
+P012,Baby Doll Sara,Dolls,S02,2022-03-01,50,260,150,379,Off-Season
+P012,Baby Doll Sara,Dolls,S02,2022-04-01,48,212,150,379,Off-Season
+P012,Baby Doll Sara,Dolls,S02,2022-05-01,58,154,150,379,Summer
+P012,Baby Doll Sara,Dolls,S02,2022-06-01,65,89,150,379,Summer
+P012,Baby Doll Sara,Dolls,S02,2022-07-01,70,319,150,379,Summer
+P012,Baby Doll Sara,Dolls,S02,2022-08-01,60,259,150,379,Summer
+P012,Baby Doll Sara,Dolls,S02,2022-09-01,45,214,150,379,Off-Season
+P012,Baby Doll Sara,Dolls,S02,2022-10-01,95,319,150,379,Festive
+P012,Baby Doll Sara,Dolls,S02,2022-11-01,125,194,150,379,Festive
+P012,Baby Doll Sara,Dolls,S02,2022-12-01,150,44,150,379,Christmas
+P012,Baby Doll Sara,Dolls,S02,2023-01-01,46,354,150,379,Off-Season
+P012,Baby Doll Sara,Dolls,S02,2023-02-01,41,313,150,379,Off-Season
+P012,Baby Doll Sara,Dolls,S02,2023-03-01,51,262,150,379,Off-Season
+P012,Baby Doll Sara,Dolls,S02,2023-04-01,49,213,150,379,Off-Season
+P012,Baby Doll Sara,Dolls,S02,2023-05-01,59,154,150,379,Summer
+P012,Baby Doll Sara,Dolls,S02,2023-06-01,67,87,150,379,Summer
+P012,Baby Doll Sara,Dolls,S02,2023-07-01,72,315,150,379,Summer
+P012,Baby Doll Sara,Dolls,S02,2023-08-01,62,253,150,379,Summer
+P012,Baby Doll Sara,Dolls,S02,2023-09-01,46,207,150,379,Off-Season
+P012,Baby Doll Sara,Dolls,S02,2023-10-01,98,309,150,379,Festive
+P012,Baby Doll Sara,Dolls,S02,2023-11-01,129,180,150,379,Festive
+P012,Baby Doll Sara,Dolls,S02,2023-12-01,155,25,150,379,Christmas
+P012,Baby Doll Sara,Dolls,S02,2024-01-01,47,378,150,429,Off-Season
+P012,Baby Doll Sara,Dolls,S02,2024-02-01,42,336,150,429,Off-Season
+P012,Baby Doll Sara,Dolls,S02,2024-03-01,52,284,150,429,Off-Season
+P012,Baby Doll Sara,Dolls,S02,2024-04-01,50,234,150,429,Off-Season
+P012,Baby Doll Sara,Dolls,S02,2024-05-01,60,174,150,429,Summer
+P012,Baby Doll Sara,Dolls,S02,2024-06-01,68,106,150,429,Summer
+P012,Baby Doll Sara,Dolls,S02,2024-07-01,73,333,150,429,Summer
+P012,Baby Doll Sara,Dolls,S02,2024-08-01,63,270,150,429,Summer
+P012,Baby Doll Sara,Dolls,S02,2024-09-01,47,223,150,429,Off-Season
+P012,Baby Doll Sara,Dolls,S02,2024-10-01,101,324,150,429,Festive
+P012,Baby Doll Sara,Dolls,S02,2024-11-01,133,191,150,429,Festive
+P012,Baby Doll Sara,Dolls,S02,2024-12-01,160,31,150,429,Christmas
+P013,Fashion Doll Mia,Dolls,S03,2022-01-01,35,480,200,499,Off-Season
+P013,Fashion Doll Mia,Dolls,S03,2022-02-01,30,450,200,499,Off-Season
+P013,Fashion Doll Mia,Dolls,S03,2022-03-01,38,412,200,499,Off-Season
+P013,Fashion Doll Mia,Dolls,S03,2022-04-01,36,376,200,499,Off-Season
+P013,Fashion Doll Mia,Dolls,S03,2022-05-01,50,326,200,499,Summer
+P013,Fashion Doll Mia,Dolls,S03,2022-06-01,60,266,200,499,Summer
+P013,Fashion Doll Mia,Dolls,S03,2022-07-01,65,201,200,499,Summer
+P013,Fashion Doll Mia,Dolls,S03,2022-08-01,55,146,200,499,Summer
+P013,Fashion Doll Mia,Dolls,S03,2022-09-01,40,106,200,499,Off-Season
+P013,Fashion Doll Mia,Dolls,S03,2022-10-01,85,321,200,499,Festive
+P013,Fashion Doll Mia,Dolls,S03,2022-11-01,110,211,200,499,Festive
+P013,Fashion Doll Mia,Dolls,S03,2022-12-01,130,81,200,499,Christmas
+P013,Fashion Doll Mia,Dolls,S03,2023-01-01,36,445,200,499,Off-Season
+P013,Fashion Doll Mia,Dolls,S03,2023-02-01,31,414,200,499,Off-Season
+P013,Fashion Doll Mia,Dolls,S03,2023-03-01,39,375,200,499,Off-Season
+P013,Fashion Doll Mia,Dolls,S03,2023-04-01,37,338,200,499,Off-Season
+P013,Fashion Doll Mia,Dolls,S03,2023-05-01,51,287,200,499,Summer
+P013,Fashion Doll Mia,Dolls,S03,2023-06-01,62,225,200,499,Summer
+P013,Fashion Doll Mia,Dolls,S03,2023-07-01,67,158,200,499,Summer
+P013,Fashion Doll Mia,Dolls,S03,2023-08-01,56,102,200,499,Summer
+P013,Fashion Doll Mia,Dolls,S03,2023-09-01,41,61,200,499,Off-Season
+P013,Fashion Doll Mia,Dolls,S03,2023-10-01,88,373,200,499,Festive
+P013,Fashion Doll Mia,Dolls,S03,2023-11-01,114,259,200,499,Festive
+P013,Fashion Doll Mia,Dolls,S03,2023-12-01,135,124,200,499,Christmas
+P013,Fashion Doll Mia,Dolls,S03,2024-01-01,37,387,200,549,Off-Season
+P013,Fashion Doll Mia,Dolls,S03,2024-02-01,32,355,200,549,Off-Season
+P013,Fashion Doll Mia,Dolls,S03,2024-03-01,40,315,200,549,Off-Season
+P013,Fashion Doll Mia,Dolls,S03,2024-04-01,38,277,200,549,Off-Season
+P013,Fashion Doll Mia,Dolls,S03,2024-05-01,52,225,200,549,Summer
+P013,Fashion Doll Mia,Dolls,S03,2024-06-01,63,162,200,549,Summer
+P013,Fashion Doll Mia,Dolls,S03,2024-07-01,68,94,200,549,Summer
+P013,Fashion Doll Mia,Dolls,S03,2024-08-01,57,37,200,549,Summer
+P013,Fashion Doll Mia,Dolls,S03,2024-09-01,42,395,200,549,Off-Season
+P013,Fashion Doll Mia,Dolls,S03,2024-10-01,91,304,200,549,Festive
+P013,Fashion Doll Mia,Dolls,S03,2024-11-01,118,186,200,549,Festive
+P013,Fashion Doll Mia,Dolls,S03,2024-12-01,140,46,200,549,Christmas
+P014,Toddler Pal,Dolls,S01,2022-01-01,70,300,120,299,Off-Season
+P014,Toddler Pal,Dolls,S01,2022-02-01,65,235,120,299,Off-Season
+P014,Toddler Pal,Dolls,S01,2022-03-01,75,160,120,299,Off-Season
+P014,Toddler Pal,Dolls,S01,2022-04-01,72,88,120,299,Off-Season
+P014,Toddler Pal,Dolls,S01,2022-05-01,80,8,120,299,Summer
+P014,Toddler Pal,Dolls,S01,2022-06-01,90,318,120,299,Summer
+P014,Toddler Pal,Dolls,S01,2022-07-01,95,223,120,299,Summer
+P014,Toddler Pal,Dolls,S01,2022-08-01,82,141,120,299,Summer
+P014,Toddler Pal,Dolls,S01,2022-09-01,60,81,120,299,Off-Season
+P014,Toddler Pal,Dolls,S01,2022-10-01,110,371,120,299,Festive
+P014,Toddler Pal,Dolls,S01,2022-11-01,145,226,120,299,Festive
+P014,Toddler Pal,Dolls,S01,2022-12-01,170,56,120,299,Christmas
+P014,Toddler Pal,Dolls,S01,2023-01-01,72,284,120,299,Off-Season
+P014,Toddler Pal,Dolls,S01,2023-02-01,67,217,120,299,Off-Season
+P014,Toddler Pal,Dolls,S01,2023-03-01,77,140,120,299,Off-Season
+P014,Toddler Pal,Dolls,S01,2023-04-01,74,66,120,299,Off-Season
+P014,Toddler Pal,Dolls,S01,2023-05-01,82,0,120,299,Summer
+P014,Toddler Pal,Dolls,S01,2023-06-01,93,307,120,299,Summer
+P014,Toddler Pal,Dolls,S01,2023-07-01,98,209,120,299,Summer
+P014,Toddler Pal,Dolls,S01,2023-08-01,84,125,120,299,Summer
+P014,Toddler Pal,Dolls,S01,2023-09-01,62,63,120,299,Off-Season
+P014,Toddler Pal,Dolls,S01,2023-10-01,114,349,120,299,Festive
+P014,Toddler Pal,Dolls,S01,2023-11-01,150,199,120,299,Festive
+P014,Toddler Pal,Dolls,S01,2023-12-01,176,23,120,299,Christmas
+P014,Toddler Pal,Dolls,S01,2024-01-01,74,349,120,349,Off-Season
+P014,Toddler Pal,Dolls,S01,2024-02-01,68,281,120,349,Off-Season
+P014,Toddler Pal,Dolls,S01,2024-03-01,79,202,120,349,Off-Season
+P014,Toddler Pal,Dolls,S01,2024-04-01,76,126,120,349,Off-Season
+P014,Toddler Pal,Dolls,S01,2024-05-01,84,42,120,349,Summer
+P014,Toddler Pal,Dolls,S01,2024-06-01,96,346,120,349,Summer
+P014,Toddler Pal,Dolls,S01,2024-07-01,101,245,120,349,Summer
+P014,Toddler Pal,Dolls,S01,2024-08-01,87,158,120,349,Summer
+P014,Toddler Pal,Dolls,S01,2024-09-01,64,94,120,349,Off-Season
+P014,Toddler Pal,Dolls,S01,2024-10-01,118,376,120,349,Festive
+P014,Toddler Pal,Dolls,S01,2024-11-01,155,221,120,349,Festive
+P014,Toddler Pal,Dolls,S01,2024-12-01,182,39,120,349,Christmas
+P015,Glam Queen,Dolls,S02,2022-01-01,25,550,220,549,Off-Season
+P015,Glam Queen,Dolls,S02,2022-02-01,22,528,220,549,Off-Season
+P015,Glam Queen,Dolls,S02,2022-03-01,28,500,220,549,Off-Season
+P015,Glam Queen,Dolls,S02,2022-04-01,26,474,220,549,Off-Season
+P015,Glam Queen,Dolls,S02,2022-05-01,35,439,220,549,Summer
+P015,Glam Queen,Dolls,S02,2022-06-01,42,397,220,549,Summer
+P015,Glam Queen,Dolls,S02,2022-07-01,45,352,220,549,Summer
+P015,Glam Queen,Dolls,S02,2022-08-01,38,314,220,549,Summer
+P015,Glam Queen,Dolls,S02,2022-09-01,28,286,220,549,Off-Season
+P015,Glam Queen,Dolls,S02,2022-10-01,60,426,220,549,Festive
+P015,Glam Queen,Dolls,S02,2022-11-01,78,348,220,549,Festive
+P015,Glam Queen,Dolls,S02,2022-12-01,92,256,220,549,Christmas
+P015,Glam Queen,Dolls,S02,2023-01-01,26,530,220,549,Off-Season
+P015,Glam Queen,Dolls,S02,2023-02-01,23,507,220,549,Off-Season
+P015,Glam Queen,Dolls,S02,2023-03-01,29,478,220,549,Off-Season
+P015,Glam Queen,Dolls,S02,2023-04-01,27,451,220,549,Off-Season
+P015,Glam Queen,Dolls,S02,2023-05-01,36,415,220,549,Summer
+P015,Glam Queen,Dolls,S02,2023-06-01,43,372,220,549,Summer
+P015,Glam Queen,Dolls,S02,2023-07-01,46,326,220,549,Summer
+P015,Glam Queen,Dolls,S02,2023-08-01,39,287,220,549,Summer
+P015,Glam Queen,Dolls,S02,2023-09-01,29,258,220,549,Off-Season
+P015,Glam Queen,Dolls,S02,2023-10-01,62,396,220,549,Festive
+P015,Glam Queen,Dolls,S02,2023-11-01,81,315,220,549,Festive
+P015,Glam Queen,Dolls,S02,2023-12-01,96,219,220,549,Christmas
+P015,Glam Queen,Dolls,S02,2024-01-01,27,492,220,599,Off-Season
+P015,Glam Queen,Dolls,S02,2024-02-01,24,468,220,599,Off-Season
+P015,Glam Queen,Dolls,S02,2024-03-01,30,438,220,599,Off-Season
+P015,Glam Queen,Dolls,S02,2024-04-01,28,410,220,599,Off-Season
+P015,Glam Queen,Dolls,S02,2024-05-01,37,373,220,599,Summer
+P015,Glam Queen,Dolls,S02,2024-06-01,44,329,220,599,Summer
+P015,Glam Queen,Dolls,S02,2024-07-01,47,282,220,599,Summer
+P015,Glam Queen,Dolls,S02,2024-08-01,40,242,220,599,Summer
+P015,Glam Queen,Dolls,S02,2024-09-01,30,212,220,599,Off-Season
+P015,Glam Queen,Dolls,S02,2024-10-01,64,376,220,599,Festive
+P015,Glam Queen,Dolls,S02,2024-11-01,84,292,220,599,Festive
+P015,Glam Queen,Dolls,S02,2024-12-01,100,192,220,599,Christmas
+P016,Monopoly Classic,Board Games,S01,2022-01-01,30,400,250,649,Off-Season
+P016,Monopoly Classic,Board Games,S01,2022-02-01,28,372,250,649,Off-Season
+P016,Monopoly Classic,Board Games,S01,2022-03-01,35,337,250,649,Off-Season
+P016,Monopoly Classic,Board Games,S01,2022-04-01,32,305,250,649,Off-Season
+P016,Monopoly Classic,Board Games,S01,2022-05-01,25,280,250,649,Summer
+P016,Monopoly Classic,Board Games,S01,2022-06-01,22,258,250,649,Summer
+P016,Monopoly Classic,Board Games,S01,2022-07-01,20,238,250,649,Summer
+P016,Monopoly Classic,Board Games,S01,2022-08-01,22,216,250,649,Summer
+P016,Monopoly Classic,Board Games,S01,2022-09-01,40,376,250,649,Off-Season
+P016,Monopoly Classic,Board Games,S01,2022-10-01,70,306,250,649,Festive
+P016,Monopoly Classic,Board Games,S01,2022-11-01,90,216,250,649,Festive
+P016,Monopoly Classic,Board Games,S01,2022-12-01,110,106,250,649,Christmas
+P016,Monopoly Classic,Board Games,S01,2023-01-01,31,375,250,649,Off-Season
+P016,Monopoly Classic,Board Games,S01,2023-02-01,29,346,250,649,Off-Season
+P016,Monopoly Classic,Board Games,S01,2023-03-01,36,310,250,649,Off-Season
+P016,Monopoly Classic,Board Games,S01,2023-04-01,33,277,250,649,Off-Season
+P016,Monopoly Classic,Board Games,S01,2023-05-01,26,251,250,649,Summer
+P016,Monopoly Classic,Board Games,S01,2023-06-01,23,228,250,649,Summer
+P016,Monopoly Classic,Board Games,S01,2023-07-01,21,207,250,649,Summer
+P016,Monopoly Classic,Board Games,S01,2023-08-01,23,184,250,649,Summer
+P016,Monopoly Classic,Board Games,S01,2023-09-01,41,343,250,649,Off-Season
+P016,Monopoly Classic,Board Games,S01,2023-10-01,73,270,250,649,Festive
+P016,Monopoly Classic,Board Games,S01,2023-11-01,94,176,250,649,Festive
+P016,Monopoly Classic,Board Games,S01,2023-12-01,115,61,250,649,Christmas
+P016,Monopoly Classic,Board Games,S01,2024-01-01,32,329,250,699,Off-Season
+P016,Monopoly Classic,Board Games,S01,2024-02-01,30,299,250,699,Off-Season
+P016,Monopoly Classic,Board Games,S01,2024-03-01,37,262,250,699,Off-Season
+P016,Monopoly Classic,Board Games,S01,2024-04-01,34,228,250,699,Off-Season
+P016,Monopoly Classic,Board Games,S01,2024-05-01,27,201,250,699,Summer
+P016,Monopoly Classic,Board Games,S01,2024-06-01,24,177,250,699,Summer
+P016,Monopoly Classic,Board Games,S01,2024-07-01,22,155,250,699,Summer
+P016,Monopoly Classic,Board Games,S01,2024-08-01,24,131,250,699,Summer
+P016,Monopoly Classic,Board Games,S01,2024-09-01,42,289,250,699,Off-Season
+P016,Monopoly Classic,Board Games,S01,2024-10-01,76,213,250,699,Festive
+P016,Monopoly Classic,Board Games,S01,2024-11-01,98,115,250,699,Festive
+P016,Monopoly Classic,Board Games,S01,2024-12-01,120,0,250,699,Christmas
+P017,Scrabble Junior,Board Games,S02,2022-01-01,42,350,200,499,Off-Season
+P017,Scrabble Junior,Board Games,S02,2022-02-01,38,312,200,499,Off-Season
+P017,Scrabble Junior,Board Games,S02,2022-03-01,48,264,200,499,Off-Season
+P017,Scrabble Junior,Board Games,S02,2022-04-01,45,219,200,499,Off-Season
+P017,Scrabble Junior,Board Games,S02,2022-05-01,35,184,200,499,Summer
+P017,Scrabble Junior,Board Games,S02,2022-06-01,30,154,200,499,Summer
+P017,Scrabble Junior,Board Games,S02,2022-07-01,28,126,200,499,Summer
+P017,Scrabble Junior,Board Games,S02,2022-08-01,30,96,200,499,Summer
+P017,Scrabble Junior,Board Games,S02,2022-09-01,55,341,200,499,Off-Season
+P017,Scrabble Junior,Board Games,S02,2022-10-01,85,256,200,499,Festive
+P017,Scrabble Junior,Board Games,S02,2022-11-01,105,151,200,499,Festive
+P017,Scrabble Junior,Board Games,S02,2022-12-01,125,26,200,499,Christmas
+P017,Scrabble Junior,Board Games,S02,2023-01-01,43,383,200,499,Off-Season
+P017,Scrabble Junior,Board Games,S02,2023-02-01,39,344,200,499,Off-Season
+P017,Scrabble Junior,Board Games,S02,2023-03-01,49,295,200,499,Off-Season
+P017,Scrabble Junior,Board Games,S02,2023-04-01,46,249,200,499,Off-Season
+P017,Scrabble Junior,Board Games,S02,2023-05-01,36,213,200,499,Summer
+P017,Scrabble Junior,Board Games,S02,2023-06-01,31,182,200,499,Summer
+P017,Scrabble Junior,Board Games,S02,2023-07-01,29,153,200,499,Summer
+P017,Scrabble Junior,Board Games,S02,2023-08-01,31,122,200,499,Summer
+P017,Scrabble Junior,Board Games,S02,2023-09-01,56,266,200,499,Off-Season
+P017,Scrabble Junior,Board Games,S02,2023-10-01,88,378,200,499,Festive
+P017,Scrabble Junior,Board Games,S02,2023-11-01,109,269,200,499,Festive
+P017,Scrabble Junior,Board Games,S02,2023-12-01,130,139,200,499,Christmas
+P017,Scrabble Junior,Board Games,S02,2024-01-01,44,395,200,549,Off-Season
+P017,Scrabble Junior,Board Games,S02,2024-02-01,40,355,200,549,Off-Season
+P017,Scrabble Junior,Board Games,S02,2024-03-01,50,305,200,549,Off-Season
+P017,Scrabble Junior,Board Games,S02,2024-04-01,47,258,200,549,Off-Season
+P017,Scrabble Junior,Board Games,S02,2024-05-01,37,221,200,549,Summer
+P017,Scrabble Junior,Board Games,S02,2024-06-01,32,189,200,549,Summer
+P017,Scrabble Junior,Board Games,S02,2024-07-01,30,159,200,549,Summer
+P017,Scrabble Junior,Board Games,S02,2024-08-01,32,127,200,549,Summer
+P017,Scrabble Junior,Board Games,S02,2024-09-01,57,270,200,549,Off-Season
+P017,Scrabble Junior,Board Games,S02,2024-10-01,91,379,200,549,Festive
+P017,Scrabble Junior,Board Games,S02,2024-11-01,113,266,200,549,Festive
+P017,Scrabble Junior,Board Games,S02,2024-12-01,135,131,200,549,Christmas
+P018,Chess Master,Board Games,S03,2022-01-01,18,600,300,749,Off-Season
+P018,Chess Master,Board Games,S03,2022-02-01,15,585,300,749,Off-Season
+P018,Chess Master,Board Games,S03,2022-03-01,20,565,300,749,Off-Season
+P018,Chess Master,Board Games,S03,2022-04-01,18,547,300,749,Off-Season
+P018,Chess Master,Board Games,S03,2022-05-01,15,532,300,749,Summer
+P018,Chess Master,Board Games,S03,2022-06-01,12,520,300,749,Summer
+P018,Chess Master,Board Games,S03,2022-07-01,10,510,300,749,Summer
+P018,Chess Master,Board Games,S03,2022-08-01,12,498,300,749,Summer
+P018,Chess Master,Board Games,S03,2022-09-01,25,473,300,749,Off-Season
+P018,Chess Master,Board Games,S03,2022-10-01,40,433,300,749,Festive
+P018,Chess Master,Board Games,S03,2022-11-01,52,381,300,749,Festive
+P018,Chess Master,Board Games,S03,2022-12-01,62,319,300,749,Christmas
+P018,Chess Master,Board Games,S03,2023-01-01,18,601,300,749,Off-Season
+P018,Chess Master,Board Games,S03,2023-02-01,15,586,300,749,Off-Season
+P018,Chess Master,Board Games,S03,2023-03-01,20,566,300,749,Off-Season
+P018,Chess Master,Board Games,S03,2023-04-01,18,548,300,749,Off-Season
+P018,Chess Master,Board Games,S03,2023-05-01,15,533,300,749,Summer
+P018,Chess Master,Board Games,S03,2023-06-01,12,521,300,749,Summer
+P018,Chess Master,Board Games,S03,2023-07-01,10,511,300,749,Summer
+P018,Chess Master,Board Games,S03,2023-08-01,12,499,300,749,Summer
+P018,Chess Master,Board Games,S03,2023-09-01,25,474,300,749,Off-Season
+P018,Chess Master,Board Games,S03,2023-10-01,41,433,300,749,Festive
+P018,Chess Master,Board Games,S03,2023-11-01,53,380,300,749,Festive
+P018,Chess Master,Board Games,S03,2023-12-01,63,317,300,749,Christmas
+P018,Chess Master,Board Games,S03,2024-01-01,18,599,300,799,Off-Season
+P018,Chess Master,Board Games,S03,2024-02-01,15,584,300,799,Off-Season
+P018,Chess Master,Board Games,S03,2024-03-01,20,564,300,799,Off-Season
+P018,Chess Master,Board Games,S03,2024-04-01,18,546,300,799,Off-Season
+P018,Chess Master,Board Games,S03,2024-05-01,15,531,300,799,Summer
+P018,Chess Master,Board Games,S03,2024-06-01,12,519,300,799,Summer
+P018,Chess Master,Board Games,S03,2024-07-01,10,509,300,799,Summer
+P018,Chess Master,Board Games,S03,2024-08-01,12,497,300,799,Summer
+P018,Chess Master,Board Games,S03,2024-09-01,25,472,300,799,Off-Season
+P018,Chess Master,Board Games,S03,2024-10-01,42,430,300,799,Festive
+P018,Chess Master,Board Games,S03,2024-11-01,54,376,300,799,Festive
+P018,Chess Master,Board Games,S03,2024-12-01,65,311,300,799,Christmas
+P019,Ludo King,Board Games,S01,2022-01-01,65,350,100,249,Off-Season
+P019,Ludo King,Board Games,S01,2022-02-01,60,290,100,249,Off-Season
+P019,Ludo King,Board Games,S01,2022-03-01,72,218,100,249,Off-Season
+P019,Ludo King,Board Games,S01,2022-04-01,68,150,100,249,Off-Season
+P019,Ludo King,Board Games,S01,2022-05-01,55,95,100,249,Summer
+P019,Ludo King,Board Games,S01,2022-06-01,48,47,100,249,Summer
+P019,Ludo King,Board Games,S01,2022-07-01,42,5,100,249,Summer
+P019,Ludo King,Board Games,S01,2022-08-01,48,357,100,249,Summer
+P019,Ludo King,Board Games,S01,2022-09-01,75,282,100,249,Off-Season
+P019,Ludo King,Board Games,S01,2022-10-01,120,162,100,249,Festive
+P019,Ludo King,Board Games,S01,2022-11-01,155,7,100,249,Festive
+P019,Ludo King,Board Games,S01,2022-12-01,180,327,100,249,Christmas
+P019,Ludo King,Board Games,S01,2023-01-01,67,260,100,249,Off-Season
+P019,Ludo King,Board Games,S01,2023-02-01,62,198,100,249,Off-Season
+P019,Ludo King,Board Games,S01,2023-03-01,74,124,100,249,Off-Season
+P019,Ludo King,Board Games,S01,2023-04-01,70,54,100,249,Off-Season
+P019,Ludo King,Board Games,S01,2023-05-01,57,0,100,249,Summer
+P019,Ludo King,Board Games,S01,2023-06-01,50,350,100,249,Summer
+P019,Ludo King,Board Games,S01,2023-07-01,44,306,100,249,Summer
+P019,Ludo King,Board Games,S01,2023-08-01,50,256,100,249,Summer
+P019,Ludo King,Board Games,S01,2023-09-01,77,179,100,249,Off-Season
+P019,Ludo King,Board Games,S01,2023-10-01,124,355,100,249,Festive
+P019,Ludo King,Board Games,S01,2023-11-01,160,195,100,249,Festive
+P019,Ludo King,Board Games,S01,2023-12-01,186,9,100,249,Christmas
+P019,Ludo King,Board Games,S01,2024-01-01,69,340,100,299,Off-Season
+P019,Ludo King,Board Games,S01,2024-02-01,63,277,100,299,Off-Season
+P019,Ludo King,Board Games,S01,2024-03-01,76,201,100,299,Off-Season
+P019,Ludo King,Board Games,S01,2024-04-01,72,129,100,299,Off-Season
+P019,Ludo King,Board Games,S01,2024-05-01,58,71,100,299,Summer
+P019,Ludo King,Board Games,S01,2024-06-01,51,20,100,299,Summer
+P019,Ludo King,Board Games,S01,2024-07-01,45,0,100,299,Summer
+P019,Ludo King,Board Games,S01,2024-08-01,51,349,100,299,Summer
+P019,Ludo King,Board Games,S01,2024-09-01,79,270,100,299,Off-Season
+P019,Ludo King,Board Games,S01,2024-10-01,128,342,100,299,Festive
+P019,Ludo King,Board Games,S01,2024-11-01,165,177,100,299,Festive
+P019,Ludo King,Board Games,S01,2024-12-01,192,0,100,299,Christmas
+P020,Snake & Ladder,Board Games,S02,2022-01-01,55,380,80,199,Off-Season
+P020,Snake & Ladder,Board Games,S02,2022-02-01,50,330,80,199,Off-Season
+P020,Snake & Ladder,Board Games,S02,2022-03-01,60,270,80,199,Off-Season
+P020,Snake & Ladder,Board Games,S02,2022-04-01,57,213,80,199,Off-Season
+P020,Snake & Ladder,Board Games,S02,2022-05-01,45,168,80,199,Summer
+P020,Snake & Ladder,Board Games,S02,2022-06-01,40,128,80,199,Summer
+P020,Snake & Ladder,Board Games,S02,2022-07-01,35,93,80,199,Summer
+P020,Snake & Ladder,Board Games,S02,2022-08-01,40,53,80,199,Summer
+P020,Snake & Ladder,Board Games,S02,2022-09-01,65,388,80,199,Off-Season
+P020,Snake & Ladder,Board Games,S02,2022-10-01,105,283,80,199,Festive
+P020,Snake & Ladder,Board Games,S02,2022-11-01,135,148,80,199,Festive
+P020,Snake & Ladder,Board Games,S02,2022-12-01,160,0,80,199,Christmas
+P020,Snake & Ladder,Board Games,S02,2023-01-01,56,344,80,199,Off-Season
+P020,Snake & Ladder,Board Games,S02,2023-02-01,51,293,80,199,Off-Season
+P020,Snake & Ladder,Board Games,S02,2023-03-01,62,231,80,199,Off-Season
+P020,Snake & Ladder,Board Games,S02,2023-04-01,58,173,80,199,Off-Season
+P020,Snake & Ladder,Board Games,S02,2023-05-01,46,127,80,199,Summer
+P020,Snake & Ladder,Board Games,S02,2023-06-01,41,86,80,199,Summer
+P020,Snake & Ladder,Board Games,S02,2023-07-01,36,50,80,199,Summer
+P020,Snake & Ladder,Board Games,S02,2023-08-01,41,9,80,199,Summer
+P020,Snake & Ladder,Board Games,S02,2023-09-01,67,342,80,199,Off-Season
+P020,Snake & Ladder,Board Games,S02,2023-10-01,108,234,80,199,Festive
+P020,Snake & Ladder,Board Games,S02,2023-11-01,139,95,80,199,Festive
+P020,Snake & Ladder,Board Games,S02,2023-12-01,165,0,80,199,Christmas
+P020,Snake & Ladder,Board Games,S02,2024-01-01,57,343,80,249,Off-Season
+P020,Snake & Ladder,Board Games,S02,2024-02-01,52,291,80,249,Off-Season
+P020,Snake & Ladder,Board Games,S02,2024-03-01,63,228,80,249,Off-Season
+P020,Snake & Ladder,Board Games,S02,2024-04-01,59,169,80,249,Off-Season
+P020,Snake & Ladder,Board Games,S02,2024-05-01,47,122,80,249,Summer
+P020,Snake & Ladder,Board Games,S02,2024-06-01,42,80,80,249,Summer
+P020,Snake & Ladder,Board Games,S02,2024-07-01,37,43,80,249,Summer
+P020,Snake & Ladder,Board Games,S02,2024-08-01,42,1,80,249,Summer
+P020,Snake & Ladder,Board Games,S02,2024-09-01,68,333,80,249,Off-Season
+P020,Snake & Ladder,Board Games,S02,2024-10-01,112,221,80,249,Festive
+P020,Snake & Ladder,Board Games,S02,2024-11-01,144,77,80,249,Festive
+P020,Snake & Ladder,Board Games,S02,2024-12-01,170,0,80,249,Christmas
