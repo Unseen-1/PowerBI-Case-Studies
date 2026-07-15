@@ -1,0 +1,511 @@
+OrderID,OrderDate,ProductID,ProductName,Category,Quantity,UnitPrice,CostPerUnit,Discount,CustomerType,PaymentMode
+ORD001,2023-01-05,P001,Chicken Burger,Meals,2,180,90,0,New,Card
+ORD002,2023-01-06,P002,Veg Pizza,Meals,1,250,140,10,Returning,UPI
+ORD003,2023-01-06,P003,Cold Coffee,Beverages,3,120,40,0,New,Cash
+ORD004,2023-01-07,P004,French Fries,Snacks,4,80,25,5,Returning,Wallet
+ORD005,2023-01-08,P005,Paneer Wrap,Meals,1,160,85,0,New,Card
+ORD006,2023-01-09,P006,Mango Shake,Beverages,2,150,55,15,Returning,UPI
+ORD007,2023-01-10,P007,Masala Chips,Snacks,5,60,18,0,New,Cash
+ORD008,2023-01-10,P008,Veg Burger,Meals,2,150,75,0,Returning,Card
+ORD009,2023-01-11,P009,Lemon Soda,Beverages,3,80,20,0,New,Wallet
+ORD010,2023-01-12,P010,Pasta Alfredo,Meals,1,220,120,20,Returning,UPI
+ORD011,2023-01-13,P001,Chicken Burger,Meals,3,180,90,0,New,Card
+ORD012,2023-01-14,P011,Nachos,Snacks,2,90,30,10,Returning,Cash
+ORD013,2023-01-15,P003,Cold Coffee,Beverages,1,120,40,0,New,UPI
+ORD014,2023-01-15,P012,Grilled Sandwich,Meals,2,140,70,0,Returning,Card
+ORD015,2023-01-16,P013,Samosa,Snacks,6,30,10,0,New,Cash
+ORD016,2023-01-17,P002,Veg Pizza,Meals,1,250,140,15,Returning,Wallet
+ORD017,2023-01-18,P014,Iced Tea,Beverages,4,90,25,0,New,UPI
+ORD018,2023-01-19,P015,Biryani,Meals,2,320,180,0,Returning,Card
+ORD019,2023-01-20,P004,French Fries,Snacks,3,80,25,0,New,Cash
+ORD020,2023-01-21,P006,Mango Shake,Beverages,2,150,55,20,Returning,UPI
+ORD021,2023-01-22,P016,Chicken Wings,Snacks,4,120,50,0,New,Card
+ORD022,2023-01-23,P005,Paneer Wrap,Meals,2,160,85,10,Returning,Wallet
+ORD023,2023-01-24,P017,Green Tea,Beverages,3,70,15,0,New,Cash
+ORD024,2023-01-25,P015,Biryani,Meals,1,320,180,25,Returning,UPI
+ORD025,2023-01-26,P007,Masala Chips,Snacks,4,60,18,0,New,Card
+ORD026,2023-01-27,P018,Pav Bhaji,Meals,3,180,95,0,Returning,Cash
+ORD027,2023-01-28,P009,Lemon Soda,Beverages,5,80,20,5,New,Wallet
+ORD028,2023-01-29,P019,Popcorn,Snacks,3,50,15,0,Returning,UPI
+ORD029,2023-01-30,P012,Grilled Sandwich,Meals,1,140,70,0,New,Card
+ORD030,2023-02-01,P020,Strawberry Shake,Beverages,2,160,60,0,Returning,Cash
+ORD031,2023-02-02,P001,Chicken Burger,Meals,2,180,90,10,New,UPI
+ORD032,2023-02-03,P013,Samosa,Snacks,8,30,10,0,Returning,Card
+ORD033,2023-02-04,P003,Cold Coffee,Beverages,2,120,40,0,New,Wallet
+ORD034,2023-02-05,P011,Nachos,Snacks,3,90,30,15,Returning,Cash
+ORD035,2023-02-06,P008,Veg Burger,Meals,1,150,75,0,New,UPI
+ORD036,2023-02-07,P014,Iced Tea,Beverages,3,90,25,10,Returning,Card
+ORD037,2023-02-08,P015,Biryani,Meals,2,320,180,0,New,Cash
+ORD038,2023-02-09,P016,Chicken Wings,Snacks,5,120,50,20,Returning,Wallet
+ORD039,2023-02-10,P018,Pav Bhaji,Meals,2,180,95,0,New,UPI
+ORD040,2023-02-11,P002,Veg Pizza,Meals,1,250,140,0,Returning,Card
+ORD041,2023-02-12,P017,Green Tea,Beverages,4,70,15,0,New,Cash
+ORD042,2023-02-13,P004,French Fries,Snacks,6,80,25,5,Returning,UPI
+ORD043,2023-02-14,P021,Chocolate Shake,Beverages,3,160,65,0,New,Card
+ORD044,2023-02-15,P010,Pasta Alfredo,Meals,1,220,120,25,Returning,Wallet
+ORD045,2023-02-16,P005,Paneer Wrap,Meals,2,160,85,0,New,Cash
+ORD046,2023-02-17,P019,Popcorn,Snacks,4,50,15,10,Returning,UPI
+ORD047,2023-02-18,P006,Mango Shake,Beverages,1,150,55,0,New,Card
+ORD048,2023-02-19,P022,Dal Makhani,Meals,2,200,110,0,Returning,Cash
+ORD049,2023-02-20,P007,Masala Chips,Snacks,3,60,18,0,New,Wallet
+ORD050,2023-02-21,P009,Lemon Soda,Beverages,4,80,20,0,Returning,UPI
+ORD051,2023-03-01,P001,Chicken Burger,Meals,1,180,90,0,New,Card
+ORD052,2023-03-02,P023,Veg Noodles,Meals,3,140,65,15,Returning,Cash
+ORD053,2023-03-03,P003,Cold Coffee,Beverages,2,120,40,0,New,UPI
+ORD054,2023-03-04,P016,Chicken Wings,Snacks,4,120,50,0,Returning,Card
+ORD055,2023-03-05,P013,Samosa,Snacks,10,30,10,0,New,Wallet
+ORD056,2023-03-06,P015,Biryani,Meals,1,320,180,10,Returning,Cash
+ORD057,2023-03-07,P014,Iced Tea,Beverages,5,90,25,0,New,UPI
+ORD058,2023-03-08,P012,Grilled Sandwich,Meals,2,140,70,0,Returning,Card
+ORD059,2023-03-09,P004,French Fries,Snacks,5,80,25,10,New,Cash
+ORD060,2023-03-10,P022,Dal Makhani,Meals,1,200,110,20,Returning,Wallet
+ORD061,2023-03-11,P021,Chocolate Shake,Beverages,2,160,65,0,New,UPI
+ORD062,2023-03-12,P011,Nachos,Snacks,4,90,30,0,Returning,Card
+ORD063,2023-03-13,P018,Pav Bhaji,Meals,3,180,95,15,New,Cash
+ORD064,2023-03-14,P006,Mango Shake,Beverages,2,150,55,0,Returning,UPI
+ORD065,2023-03-15,P008,Veg Burger,Meals,3,150,75,0,New,Card
+ORD066,2023-03-16,P020,Strawberry Shake,Beverages,1,160,60,25,Returning,Wallet
+ORD067,2023-03-17,P019,Popcorn,Snacks,5,50,15,0,New,Cash
+ORD068,2023-03-18,P002,Veg Pizza,Meals,2,250,140,10,Returning,UPI
+ORD069,2023-03-19,P017,Green Tea,Beverages,6,70,15,0,New,Card
+ORD070,2023-03-20,P005,Paneer Wrap,Meals,1,160,85,0,Returning,Cash
+ORD071,2023-03-21,P024,Chicken Tikka,Meals,2,280,150,0,New,Wallet
+ORD072,2023-03-22,P007,Masala Chips,Snacks,6,60,18,5,Returning,UPI
+ORD073,2023-03-23,P009,Lemon Soda,Beverages,3,80,20,0,New,Card
+ORD074,2023-03-24,P023,Veg Noodles,Meals,2,140,65,0,Returning,Cash
+ORD075,2023-03-25,P010,Pasta Alfredo,Meals,1,220,120,15,New,UPI
+ORD076,2023-03-26,P013,Samosa,Snacks,12,30,10,0,Returning,Card
+ORD077,2023-03-27,P001,Chicken Burger,Meals,4,180,90,20,New,Wallet
+ORD078,2023-03-28,P014,Iced Tea,Beverages,4,90,25,0,Returning,Cash
+ORD079,2023-03-29,P016,Chicken Wings,Snacks,3,120,50,10,New,UPI
+ORD080,2023-03-30,P024,Chicken Tikka,Meals,1,280,150,0,Returning,Card
+ORD081,2023-04-01,P003,Cold Coffee,Beverages,3,120,40,0,New,Cash
+ORD082,2023-04-02,P015,Biryani,Meals,2,320,180,0,Returning,UPI
+ORD083,2023-04-03,P011,Nachos,Snacks,5,90,30,20,New,Card
+ORD084,2023-04-04,P022,Dal Makhani,Meals,2,200,110,0,Returning,Wallet
+ORD085,2023-04-05,P006,Mango Shake,Beverages,3,150,55,0,New,Cash
+ORD086,2023-04-06,P004,French Fries,Snacks,4,80,25,0,Returning,UPI
+ORD087,2023-04-07,P018,Pav Bhaji,Meals,2,180,95,10,New,Card
+ORD088,2023-04-08,P021,Chocolate Shake,Beverages,4,160,65,15,Returning,Cash
+ORD089,2023-04-09,P008,Veg Burger,Meals,1,150,75,0,New,Wallet
+ORD090,2023-04-10,P013,Samosa,Snacks,8,30,10,0,Returning,UPI
+ORD091,2023-04-11,P002,Veg Pizza,Meals,1,250,140,20,New,Card
+ORD092,2023-04-12,P017,Green Tea,Beverages,5,70,15,0,Returning,Cash
+ORD093,2023-04-13,P019,Popcorn,Snacks,3,50,15,5,New,UPI
+ORD094,2023-04-14,P005,Paneer Wrap,Meals,2,160,85,0,Returning,Card
+ORD095,2023-04-15,P020,Strawberry Shake,Beverages,2,160,60,0,New,Wallet
+ORD096,2023-04-16,P012,Grilled Sandwich,Meals,3,140,70,15,Returning,Cash
+ORD097,2023-04-17,P007,Masala Chips,Snacks,5,60,18,0,New,UPI
+ORD098,2023-04-18,P024,Chicken Tikka,Meals,2,280,150,10,Returning,Card
+ORD099,2023-04-19,P009,Lemon Soda,Beverages,4,80,20,0,New,Cash
+ORD100,2023-04-20,P023,Veg Noodles,Meals,1,140,65,0,Returning,Wallet
+ORD101,2023-05-01,P001,Chicken Burger,Meals,3,180,90,0,New,UPI
+ORD102,2023-05-02,P014,Iced Tea,Beverages,6,90,25,0,Returning,Card
+ORD103,2023-05-03,P016,Chicken Wings,Snacks,4,120,50,15,New,Cash
+ORD104,2023-05-04,P015,Biryani,Meals,2,320,180,0,Returning,UPI
+ORD105,2023-05-05,P003,Cold Coffee,Beverages,3,120,40,10,New,Card
+ORD106,2023-05-06,P013,Samosa,Snacks,10,30,10,0,Returning,Wallet
+ORD107,2023-05-07,P022,Dal Makhani,Meals,1,200,110,25,New,Cash
+ORD108,2023-05-08,P011,Nachos,Snacks,3,90,30,0,Returning,UPI
+ORD109,2023-05-09,P006,Mango Shake,Beverages,2,150,55,0,New,Card
+ORD110,2023-05-10,P008,Veg Burger,Meals,2,150,75,10,Returning,Cash
+ORD111,2023-05-11,P018,Pav Bhaji,Meals,3,180,95,0,New,Wallet
+ORD112,2023-05-12,P021,Chocolate Shake,Beverages,2,160,65,20,Returning,UPI
+ORD113,2023-05-13,P004,French Fries,Snacks,7,80,25,5,New,Card
+ORD114,2023-05-14,P002,Veg Pizza,Meals,1,250,140,0,Returning,Cash
+ORD115,2023-05-15,P017,Green Tea,Beverages,4,70,15,0,New,UPI
+ORD116,2023-05-16,P010,Pasta Alfredo,Meals,2,220,120,20,Returning,Card
+ORD117,2023-05-17,P024,Chicken Tikka,Meals,3,280,150,0,New,Wallet
+ORD118,2023-05-18,P007,Masala Chips,Snacks,4,60,18,0,Returning,Cash
+ORD119,2023-05-19,P005,Paneer Wrap,Meals,1,160,85,15,New,UPI
+ORD120,2023-05-20,P009,Lemon Soda,Beverages,5,80,20,0,Returning,Card
+ORD121,2023-06-01,P019,Popcorn,Snacks,6,50,15,0,New,Cash
+ORD122,2023-06-02,P012,Grilled Sandwich,Meals,2,140,70,10,Returning,Wallet
+ORD123,2023-06-03,P001,Chicken Burger,Meals,4,180,90,0,New,UPI
+ORD124,2023-06-04,P020,Strawberry Shake,Beverages,3,160,60,0,Returning,Card
+ORD125,2023-06-05,P013,Samosa,Snacks,15,30,10,0,New,Cash
+ORD126,2023-06-06,P015,Biryani,Meals,1,320,180,15,Returning,UPI
+ORD127,2023-06-07,P016,Chicken Wings,Snacks,5,120,50,0,New,Card
+ORD128,2023-06-08,P003,Cold Coffee,Beverages,4,120,40,0,Returning,Wallet
+ORD129,2023-06-09,P022,Dal Makhani,Meals,2,200,110,10,New,Cash
+ORD130,2023-06-10,P006,Mango Shake,Beverages,3,150,55,20,Returning,UPI
+ORD131,2023-06-11,P011,Nachos,Snacks,4,90,30,0,New,Card
+ORD132,2023-06-12,P008,Veg Burger,Meals,2,150,75,0,Returning,Cash
+ORD133,2023-06-13,P014,Iced Tea,Beverages,6,90,25,5,New,Wallet
+ORD134,2023-06-14,P018,Pav Bhaji,Meals,1,180,95,0,Returning,UPI
+ORD135,2023-06-15,P002,Veg Pizza,Meals,2,250,140,25,New,Card
+ORD136,2023-06-16,P023,Veg Noodles,Meals,3,140,65,0,Returning,Cash
+ORD137,2023-06-17,P017,Green Tea,Beverages,5,70,15,0,New,UPI
+ORD138,2023-06-18,P004,French Fries,Snacks,6,80,25,10,Returning,Card
+ORD139,2023-06-19,P021,Chocolate Shake,Beverages,2,160,65,0,New,Wallet
+ORD140,2023-06-20,P010,Pasta Alfredo,Meals,1,220,120,15,Returning,Cash
+ORD141,2023-07-01,P024,Chicken Tikka,Meals,3,280,150,0,New,UPI
+ORD142,2023-07-02,P007,Masala Chips,Snacks,5,60,18,0,Returning,Card
+ORD143,2023-07-03,P005,Paneer Wrap,Meals,2,160,85,10,New,Cash
+ORD144,2023-07-04,P009,Lemon Soda,Beverages,6,80,20,0,Returning,Wallet
+ORD145,2023-07-05,P019,Popcorn,Snacks,4,50,15,5,New,UPI
+ORD146,2023-07-06,P001,Chicken Burger,Meals,2,180,90,0,Returning,Card
+ORD147,2023-07-07,P013,Samosa,Snacks,12,30,10,0,New,Cash
+ORD148,2023-07-08,P015,Biryani,Meals,3,320,180,0,Returning,UPI
+ORD149,2023-07-09,P020,Strawberry Shake,Beverages,2,160,60,20,New,Card
+ORD150,2023-07-10,P012,Grilled Sandwich,Meals,2,140,70,0,Returning,Wallet
+ORD151,2023-07-11,P016,Chicken Wings,Snacks,6,120,50,15,New,Cash
+ORD152,2023-07-12,P003,Cold Coffee,Beverages,3,120,40,0,Returning,UPI
+ORD153,2023-07-13,P022,Dal Makhani,Meals,1,200,110,0,New,Card
+ORD154,2023-07-14,P006,Mango Shake,Beverages,4,150,55,10,Returning,Cash
+ORD155,2023-07-15,P008,Veg Burger,Meals,3,150,75,0,New,Wallet
+ORD156,2023-07-16,P011,Nachos,Snacks,5,90,30,20,Returning,UPI
+ORD157,2023-07-17,P014,Iced Tea,Beverages,5,90,25,0,New,Card
+ORD158,2023-07-18,P002,Veg Pizza,Meals,2,250,140,10,Returning,Cash
+ORD159,2023-07-19,P018,Pav Bhaji,Meals,2,180,95,0,New,UPI
+ORD160,2023-07-20,P017,Green Tea,Beverages,7,70,15,0,Returning,Card
+ORD161,2023-08-01,P024,Chicken Tikka,Meals,2,280,150,25,New,Wallet
+ORD162,2023-08-02,P004,French Fries,Snacks,8,80,25,5,Returning,Cash
+ORD163,2023-08-03,P021,Chocolate Shake,Beverages,3,160,65,0,New,UPI
+ORD164,2023-08-04,P023,Veg Noodles,Meals,2,140,65,15,Returning,Card
+ORD165,2023-08-05,P013,Samosa,Snacks,15,30,10,0,New,Wallet
+ORD166,2023-08-06,P010,Pasta Alfredo,Meals,1,220,120,20,Returning,Cash
+ORD167,2023-08-07,P007,Masala Chips,Snacks,6,60,18,0,New,UPI
+ORD168,2023-08-08,P001,Chicken Burger,Meals,3,180,90,10,Returning,Card
+ORD169,2023-08-09,P005,Paneer Wrap,Meals,2,160,85,0,New,Cash
+ORD170,2023-08-10,P015,Biryani,Meals,1,320,180,0,Returning,Wallet
+ORD171,2023-08-11,P009,Lemon Soda,Beverages,4,80,20,0,New,UPI
+ORD172,2023-08-12,P019,Popcorn,Snacks,5,50,15,10,Returning,Card
+ORD173,2023-08-13,P020,Strawberry Shake,Beverages,2,160,60,0,New,Cash
+ORD174,2023-08-14,P012,Grilled Sandwich,Meals,3,140,70,5,Returning,UPI
+ORD175,2023-08-15,P022,Dal Makhani,Meals,2,200,110,0,New,Card
+ORD176,2023-08-16,P016,Chicken Wings,Snacks,4,120,50,20,Returning,Wallet
+ORD177,2023-08-17,P003,Cold Coffee,Beverages,3,120,40,0,New,Cash
+ORD178,2023-08-18,P006,Mango Shake,Beverages,2,150,55,15,Returning,UPI
+ORD179,2023-08-19,P008,Veg Burger,Meals,2,150,75,0,New,Card
+ORD180,2023-08-20,P011,Nachos,Snacks,4,90,30,0,Returning,Cash
+ORD181,2023-09-01,P014,Iced Tea,Beverages,6,90,25,0,New,Wallet
+ORD182,2023-09-02,P002,Veg Pizza,Meals,1,250,140,20,Returning,UPI
+ORD183,2023-09-03,P018,Pav Bhaji,Meals,3,180,95,10,New,Card
+ORD184,2023-09-04,P017,Green Tea,Beverages,5,70,15,0,Returning,Cash
+ORD185,2023-09-05,P024,Chicken Tikka,Meals,2,280,150,0,New,UPI
+ORD186,2023-09-06,P013,Samosa,Snacks,10,30,10,0,Returning,Card
+ORD187,2023-09-07,P021,Chocolate Shake,Beverages,3,160,65,5,New,Wallet
+ORD188,2023-09-08,P004,French Fries,Snacks,7,80,25,10,Returning,Cash
+ORD189,2023-09-09,P010,Pasta Alfredo,Meals,2,220,120,25,New,UPI
+ORD190,2023-09-10,P001,Chicken Burger,Meals,4,180,90,0,Returning,Card
+ORD191,2023-09-11,P023,Veg Noodles,Meals,2,140,65,0,New,Cash
+ORD192,2023-09-12,P007,Masala Chips,Snacks,5,60,18,0,Returning,Wallet
+ORD193,2023-09-13,P005,Paneer Wrap,Meals,1,160,85,15,New,UPI
+ORD194,2023-09-14,P009,Lemon Soda,Beverages,5,80,20,0,Returning,Card
+ORD195,2023-09-15,P015,Biryani,Meals,2,320,180,0,New,Cash
+ORD196,2023-09-16,P019,Popcorn,Snacks,6,50,15,0,Returning,UPI
+ORD197,2023-09-17,P020,Strawberry Shake,Beverages,3,160,60,10,New,Card
+ORD198,2023-09-18,P012,Grilled Sandwich,Meals,2,140,70,0,Returning,Wallet
+ORD199,2023-09-19,P016,Chicken Wings,Snacks,4,120,50,0,New,Cash
+ORD200,2023-09-20,P022,Dal Makhani,Meals,1,200,110,20,Returning,UPI
+ORD201,2023-10-01,P003,Cold Coffee,Beverages,4,120,40,0,New,Card
+ORD202,2023-10-02,P006,Mango Shake,Beverages,3,150,55,0,Returning,Cash
+ORD203,2023-10-03,P013,Samosa,Snacks,12,30,10,0,New,Wallet
+ORD204,2023-10-04,P001,Chicken Burger,Meals,2,180,90,15,Returning,UPI
+ORD205,2023-10-05,P014,Iced Tea,Beverages,5,90,25,0,New,Card
+ORD206,2023-10-06,P011,Nachos,Snacks,4,90,30,10,Returning,Cash
+ORD207,2023-10-07,P008,Veg Burger,Meals,3,150,75,0,New,UPI
+ORD208,2023-10-08,P018,Pav Bhaji,Meals,2,180,95,20,Returning,Card
+ORD209,2023-10-09,P002,Veg Pizza,Meals,1,250,140,0,New,Wallet
+ORD210,2023-10-10,P021,Chocolate Shake,Beverages,2,160,65,15,Returning,Cash
+ORD211,2023-10-11,P015,Biryani,Meals,3,320,180,0,New,UPI
+ORD212,2023-10-12,P007,Masala Chips,Snacks,6,60,18,5,Returning,Card
+ORD213,2023-10-13,P024,Chicken Tikka,Meals,2,280,150,10,New,Wallet
+ORD214,2023-10-14,P017,Green Tea,Beverages,6,70,15,0,Returning,Cash
+ORD215,2023-10-15,P010,Pasta Alfredo,Meals,1,220,120,20,New,UPI
+ORD216,2023-10-16,P005,Paneer Wrap,Meals,3,160,85,0,Returning,Card
+ORD217,2023-10-17,P019,Popcorn,Snacks,5,50,15,0,New,Cash
+ORD218,2023-10-18,P009,Lemon Soda,Beverages,4,80,20,0,Returning,Wallet
+ORD219,2023-10-19,P023,Veg Noodles,Meals,2,140,65,10,New,UPI
+ORD220,2023-10-20,P004,French Fries,Snacks,8,80,25,0,Returning,Card
+ORD221,2023-11-01,P012,Grilled Sandwich,Meals,3,140,70,0,New,Cash
+ORD222,2023-11-02,P020,Strawberry Shake,Beverages,2,160,60,25,Returning,UPI
+ORD223,2023-11-03,P016,Chicken Wings,Snacks,5,120,50,0,New,Card
+ORD224,2023-11-04,P001,Chicken Burger,Meals,4,180,90,10,Returning,Wallet
+ORD225,2023-11-05,P022,Dal Makhani,Meals,2,200,110,0,New,Cash
+ORD226,2023-11-06,P003,Cold Coffee,Beverages,3,120,40,15,Returning,UPI
+ORD227,2023-11-07,P013,Samosa,Snacks,10,30,10,0,New,Card
+ORD228,2023-11-08,P006,Mango Shake,Beverages,4,150,55,0,Returning,Cash
+ORD229,2023-11-09,P015,Biryani,Meals,2,320,180,20,New,Wallet
+ORD230,2023-11-10,P011,Nachos,Snacks,3,90,30,0,Returning,UPI
+ORD231,2023-11-11,P014,Iced Tea,Beverages,5,90,25,5,New,Card
+ORD232,2023-11-12,P018,Pav Bhaji,Meals,1,180,95,0,Returning,Cash
+ORD233,2023-11-13,P021,Chocolate Shake,Beverages,3,160,65,10,New,UPI
+ORD234,2023-11-14,P008,Veg Burger,Meals,2,150,75,0,Returning,Card
+ORD235,2023-11-15,P002,Veg Pizza,Meals,1,250,140,15,New,Wallet
+ORD236,2023-11-16,P024,Chicken Tikka,Meals,3,280,150,0,Returning,Cash
+ORD237,2023-11-17,P007,Masala Chips,Snacks,5,60,18,0,New,UPI
+ORD238,2023-11-18,P010,Pasta Alfredo,Meals,2,220,120,25,Returning,Card
+ORD239,2023-11-19,P005,Paneer Wrap,Meals,2,160,85,0,New,Wallet
+ORD240,2023-11-20,P009,Lemon Soda,Beverages,6,80,20,0,Returning,Cash
+ORD241,2023-12-01,P004,French Fries,Snacks,7,80,25,10,New,UPI
+ORD242,2023-12-02,P019,Popcorn,Snacks,4,50,15,0,Returning,Card
+ORD243,2023-12-03,P023,Veg Noodles,Meals,2,140,65,20,New,Cash
+ORD244,2023-12-04,P001,Chicken Burger,Meals,5,180,90,0,Returning,Wallet
+ORD245,2023-12-05,P017,Green Tea,Beverages,6,70,15,0,New,UPI
+ORD246,2023-12-06,P015,Biryani,Meals,3,320,180,0,Returning,Card
+ORD247,2023-12-07,P016,Chicken Wings,Snacks,6,120,50,15,New,Cash
+ORD248,2023-12-08,P020,Strawberry Shake,Beverages,3,160,60,0,Returning,UPI
+ORD249,2023-12-09,P022,Dal Makhani,Meals,2,200,110,10,New,Card
+ORD250,2023-12-10,P003,Cold Coffee,Beverages,4,120,40,0,Returning,Wallet
+ORD251,2024-01-05,P001,Chicken Burger,Meals,3,180,90,0,New,Cash
+ORD252,2024-01-06,P014,Iced Tea,Beverages,5,90,25,0,Returning,UPI
+ORD253,2024-01-07,P013,Samosa,Snacks,12,30,10,0,New,Card
+ORD254,2024-01-08,P015,Biryani,Meals,2,320,180,20,Returning,Wallet
+ORD255,2024-01-09,P006,Mango Shake,Beverages,3,150,55,0,New,Cash
+ORD256,2024-01-10,P011,Nachos,Snacks,4,90,30,10,Returning,UPI
+ORD257,2024-01-11,P008,Veg Burger,Meals,2,150,75,0,New,Card
+ORD258,2024-01-12,P018,Pav Bhaji,Meals,3,180,95,15,Returning,Cash
+ORD259,2024-01-13,P021,Chocolate Shake,Beverages,2,160,65,0,New,Wallet
+ORD260,2024-01-14,P002,Veg Pizza,Meals,1,250,140,25,Returning,UPI
+ORD261,2024-01-15,P016,Chicken Wings,Snacks,5,120,50,0,New,Card
+ORD262,2024-01-16,P017,Green Tea,Beverages,7,70,15,0,Returning,Cash
+ORD263,2024-01-17,P024,Chicken Tikka,Meals,2,280,150,10,New,UPI
+ORD264,2024-01-18,P007,Masala Chips,Snacks,6,60,18,0,Returning,Card
+ORD265,2024-01-19,P005,Paneer Wrap,Meals,1,160,85,20,New,Wallet
+ORD266,2024-01-20,P009,Lemon Soda,Beverages,5,80,20,0,Returning,Cash
+ORD267,2024-01-21,P010,Pasta Alfredo,Meals,2,220,120,15,New,UPI
+ORD268,2024-01-22,P004,French Fries,Snacks,8,80,25,5,Returning,Card
+ORD269,2024-01-23,P023,Veg Noodles,Meals,3,140,65,0,New,Wallet
+ORD270,2024-01-24,P019,Popcorn,Snacks,5,50,15,0,Returning,Cash
+ORD271,2024-01-25,P020,Strawberry Shake,Beverages,2,160,60,10,New,UPI
+ORD272,2024-01-26,P012,Grilled Sandwich,Meals,3,140,70,0,Returning,Card
+ORD273,2024-01-27,P022,Dal Makhani,Meals,1,200,110,0,New,Cash
+ORD274,2024-01-28,P003,Cold Coffee,Beverages,4,120,40,20,Returning,Wallet
+ORD275,2024-01-29,P013,Samosa,Snacks,15,30,10,0,New,UPI
+ORD276,2024-01-30,P001,Chicken Burger,Meals,4,180,90,0,Returning,Card
+ORD277,2024-02-01,P015,Biryani,Meals,2,320,180,0,New,Cash
+ORD278,2024-02-02,P006,Mango Shake,Beverages,3,150,55,15,Returning,UPI
+ORD279,2024-02-03,P011,Nachos,Snacks,5,90,30,0,New,Card
+ORD280,2024-02-04,P014,Iced Tea,Beverages,6,90,25,0,Returning,Wallet
+ORD281,2024-02-05,P008,Veg Burger,Meals,3,150,75,10,New,Cash
+ORD282,2024-02-06,P016,Chicken Wings,Snacks,4,120,50,20,Returning,UPI
+ORD283,2024-02-07,P018,Pav Bhaji,Meals,2,180,95,0,New,Card
+ORD284,2024-02-08,P021,Chocolate Shake,Beverages,3,160,65,5,Returning,Cash
+ORD285,2024-02-09,P002,Veg Pizza,Meals,2,250,140,15,New,Wallet
+ORD286,2024-02-10,P024,Chicken Tikka,Meals,3,280,150,0,Returning,UPI
+ORD287,2024-02-11,P017,Green Tea,Beverages,5,70,15,0,New,Card
+ORD288,2024-02-12,P007,Masala Chips,Snacks,7,60,18,0,Returning,Cash
+ORD289,2024-02-13,P005,Paneer Wrap,Meals,2,160,85,10,New,UPI
+ORD290,2024-02-14,P009,Lemon Soda,Beverages,6,80,20,0,Returning,Card
+ORD291,2024-02-15,P010,Pasta Alfredo,Meals,1,220,120,25,New,Wallet
+ORD292,2024-02-16,P013,Samosa,Snacks,10,30,10,0,Returning,Cash
+ORD293,2024-02-17,P004,French Fries,Snacks,9,80,25,0,New,UPI
+ORD294,2024-02-18,P023,Veg Noodles,Meals,2,140,65,20,Returning,Card
+ORD295,2024-02-19,P019,Popcorn,Snacks,4,50,15,5,New,Wallet
+ORD296,2024-02-20,P020,Strawberry Shake,Beverages,2,160,60,0,Returning,Cash
+ORD297,2024-02-21,P022,Dal Makhani,Meals,3,200,110,10,New,UPI
+ORD298,2024-02-22,P012,Grilled Sandwich,Meals,2,140,70,0,Returning,Card
+ORD299,2024-02-23,P001,Chicken Burger,Meals,5,180,90,15,New,Cash
+ORD300,2024-02-24,P003,Cold Coffee,Beverages,3,120,40,0,Returning,Wallet
+ORD301,2024-03-01,P015,Biryani,Meals,3,320,180,0,New,UPI
+ORD302,2024-03-02,P006,Mango Shake,Beverages,4,150,55,10,Returning,Card
+ORD303,2024-03-03,P016,Chicken Wings,Snacks,5,120,50,0,New,Cash
+ORD304,2024-03-04,P011,Nachos,Snacks,3,90,30,20,Returning,UPI
+ORD305,2024-03-05,P014,Iced Tea,Beverages,7,90,25,0,New,Card
+ORD306,2024-03-06,P008,Veg Burger,Meals,2,150,75,0,Returning,Wallet
+ORD307,2024-03-07,P018,Pav Bhaji,Meals,3,180,95,15,New,Cash
+ORD308,2024-03-08,P002,Veg Pizza,Meals,1,250,140,0,Returning,UPI
+ORD309,2024-03-09,P021,Chocolate Shake,Beverages,4,160,65,10,New,Card
+ORD310,2024-03-10,P024,Chicken Tikka,Meals,2,280,150,25,Returning,Wallet
+ORD311,2024-03-11,P013,Samosa,Snacks,12,30,10,0,New,Cash
+ORD312,2024-03-12,P017,Green Tea,Beverages,6,70,15,0,Returning,UPI
+ORD313,2024-03-13,P005,Paneer Wrap,Meals,3,160,85,0,New,Card
+ORD314,2024-03-14,P009,Lemon Soda,Beverages,5,80,20,0,Returning,Cash
+ORD315,2024-03-15,P007,Masala Chips,Snacks,6,60,18,5,New,Wallet
+ORD316,2024-03-16,P010,Pasta Alfredo,Meals,2,220,120,20,Returning,UPI
+ORD317,2024-03-17,P004,French Fries,Snacks,8,80,25,10,New,Card
+ORD318,2024-03-18,P023,Veg Noodles,Meals,2,140,65,0,Returning,Cash
+ORD319,2024-03-19,P020,Strawberry Shake,Beverages,3,160,60,15,New,Wallet
+ORD320,2024-03-20,P019,Popcorn,Snacks,5,50,15,0,Returning,UPI
+ORD321,2024-03-21,P022,Dal Makhani,Meals,2,200,110,0,New,Card
+ORD322,2024-03-22,P012,Grilled Sandwich,Meals,3,140,70,10,Returning,Cash
+ORD323,2024-03-23,P001,Chicken Burger,Meals,4,180,90,0,New,UPI
+ORD324,2024-03-24,P003,Cold Coffee,Beverages,5,120,40,0,Returning,Card
+ORD325,2024-03-25,P015,Biryani,Meals,2,320,180,20,New,Wallet
+ORD326,2024-04-01,P016,Chicken Wings,Snacks,6,120,50,0,Returning,Cash
+ORD327,2024-04-02,P006,Mango Shake,Beverages,3,150,55,25,New,UPI
+ORD328,2024-04-03,P011,Nachos,Snacks,4,90,30,0,Returning,Card
+ORD329,2024-04-04,P014,Iced Tea,Beverages,6,90,25,5,New,Wallet
+ORD330,2024-04-05,P008,Veg Burger,Meals,3,150,75,0,Returning,Cash
+ORD331,2024-04-06,P018,Pav Bhaji,Meals,2,180,95,10,New,UPI
+ORD332,2024-04-07,P002,Veg Pizza,Meals,2,250,140,15,Returning,Card
+ORD333,2024-04-08,P021,Chocolate Shake,Beverages,3,160,65,0,New,Wallet
+ORD334,2024-04-09,P013,Samosa,Snacks,15,30,10,0,Returning,Cash
+ORD335,2024-04-10,P024,Chicken Tikka,Meals,3,280,150,0,New,UPI
+ORD336,2024-04-11,P017,Green Tea,Beverages,7,70,15,0,Returning,Card
+ORD337,2024-04-12,P005,Paneer Wrap,Meals,2,160,85,20,New,Cash
+ORD338,2024-04-13,P009,Lemon Soda,Beverages,5,80,20,0,Returning,Wallet
+ORD339,2024-04-14,P007,Masala Chips,Snacks,7,60,18,0,New,UPI
+ORD340,2024-04-15,P010,Pasta Alfredo,Meals,1,220,120,25,Returning,Card
+ORD341,2024-04-16,P004,French Fries,Snacks,9,80,25,5,New,Cash
+ORD342,2024-04-17,P023,Veg Noodles,Meals,3,140,65,10,Returning,UPI
+ORD343,2024-04-18,P019,Popcorn,Snacks,6,50,15,0,New,Card
+ORD344,2024-04-19,P020,Strawberry Shake,Beverages,2,160,60,20,Returning,Wallet
+ORD345,2024-04-20,P022,Dal Makhani,Meals,2,200,110,0,New,Cash
+ORD346,2024-05-01,P001,Chicken Burger,Meals,5,180,90,10,Returning,UPI
+ORD347,2024-05-02,P003,Cold Coffee,Beverages,4,120,40,0,New,Card
+ORD348,2024-05-03,P015,Biryani,Meals,3,320,180,0,Returning,Wallet
+ORD349,2024-05-04,P016,Chicken Wings,Snacks,5,120,50,15,New,Cash
+ORD350,2024-05-05,P012,Grilled Sandwich,Meals,2,140,70,0,Returning,UPI
+ORD351,2024-05-06,P006,Mango Shake,Beverages,4,150,55,0,New,Card
+ORD352,2024-05-07,P011,Nachos,Snacks,5,90,30,10,Returning,Wallet
+ORD353,2024-05-08,P014,Iced Tea,Beverages,6,90,25,0,New,Cash
+ORD354,2024-05-09,P008,Veg Burger,Meals,3,150,75,20,Returning,UPI
+ORD355,2024-05-10,P018,Pav Bhaji,Meals,2,180,95,0,New,Card
+ORD356,2024-05-11,P002,Veg Pizza,Meals,1,250,140,25,Returning,Wallet
+ORD357,2024-05-12,P021,Chocolate Shake,Beverages,3,160,65,0,New,Cash
+ORD358,2024-05-13,P024,Chicken Tikka,Meals,2,280,150,10,Returning,UPI
+ORD359,2024-05-14,P013,Samosa,Snacks,12,30,10,0,New,Card
+ORD360,2024-05-15,P017,Green Tea,Beverages,8,70,15,0,Returning,Wallet
+ORD361,2024-05-16,P005,Paneer Wrap,Meals,3,160,85,5,New,Cash
+ORD362,2024-05-17,P009,Lemon Soda,Beverages,6,80,20,0,Returning,UPI
+ORD363,2024-05-18,P007,Masala Chips,Snacks,6,60,18,0,New,Card
+ORD364,2024-05-19,P010,Pasta Alfredo,Meals,2,220,120,20,Returning,Wallet
+ORD365,2024-05-20,P004,French Fries,Snacks,10,80,25,5,New,Cash
+ORD366,2024-06-01,P023,Veg Noodles,Meals,2,140,65,15,Returning,UPI
+ORD367,2024-06-02,P019,Popcorn,Snacks,5,50,15,0,New,Card
+ORD368,2024-06-03,P020,Strawberry Shake,Beverages,3,160,60,0,Returning,Wallet
+ORD369,2024-06-04,P022,Dal Makhani,Meals,2,200,110,10,New,Cash
+ORD370,2024-06-05,P001,Chicken Burger,Meals,4,180,90,0,Returning,UPI
+ORD371,2024-06-06,P003,Cold Coffee,Beverages,5,120,40,15,New,Card
+ORD372,2024-06-07,P015,Biryani,Meals,2,320,180,0,Returning,Wallet
+ORD373,2024-06-08,P016,Chicken Wings,Snacks,6,120,50,20,New,Cash
+ORD374,2024-06-09,P006,Mango Shake,Beverages,3,150,55,0,Returning,UPI
+ORD375,2024-06-10,P011,Nachos,Snacks,4,90,30,0,New,Card
+ORD376,2024-06-11,P014,Iced Tea,Beverages,7,90,25,5,Returning,Wallet
+ORD377,2024-06-12,P008,Veg Burger,Meals,3,150,75,0,New,Cash
+ORD378,2024-06-13,P018,Pav Bhaji,Meals,2,180,95,15,Returning,UPI
+ORD379,2024-06-14,P002,Veg Pizza,Meals,1,250,140,10,New,Card
+ORD380,2024-06-15,P021,Chocolate Shake,Beverages,4,160,65,0,Returning,Wallet
+ORD381,2024-06-16,P024,Chicken Tikka,Meals,3,280,150,25,New,Cash
+ORD382,2024-06-17,P013,Samosa,Snacks,15,30,10,0,Returning,UPI
+ORD383,2024-06-18,P017,Green Tea,Beverages,6,70,15,0,New,Card
+ORD384,2024-06-19,P005,Paneer Wrap,Meals,2,160,85,10,Returning,Wallet
+ORD385,2024-06-20,P009,Lemon Soda,Beverages,5,80,20,0,New,Cash
+ORD386,2024-07-01,P007,Masala Chips,Snacks,7,60,18,0,Returning,UPI
+ORD387,2024-07-02,P010,Pasta Alfredo,Meals,2,220,120,25,New,Card
+ORD388,2024-07-03,P004,French Fries,Snacks,9,80,25,10,Returning,Wallet
+ORD389,2024-07-04,P023,Veg Noodles,Meals,3,140,65,0,New,Cash
+ORD390,2024-07-05,P019,Popcorn,Snacks,5,50,15,5,Returning,UPI
+ORD391,2024-07-06,P020,Strawberry Shake,Beverages,2,160,60,20,New,Card
+ORD392,2024-07-07,P022,Dal Makhani,Meals,2,200,110,0,Returning,Wallet
+ORD393,2024-07-08,P001,Chicken Burger,Meals,5,180,90,15,New,Cash
+ORD394,2024-07-09,P003,Cold Coffee,Beverages,4,120,40,0,Returning,UPI
+ORD395,2024-07-10,P015,Biryani,Meals,3,320,180,0,New,Card
+ORD396,2024-07-11,P016,Chicken Wings,Snacks,6,120,50,10,Returning,Wallet
+ORD397,2024-07-12,P006,Mango Shake,Beverages,4,150,55,0,New,Cash
+ORD398,2024-07-13,P011,Nachos,Snacks,5,90,30,20,Returning,UPI
+ORD399,2024-07-14,P014,Iced Tea,Beverages,7,90,25,0,New,Card
+ORD400,2024-07-15,P008,Veg Burger,Meals,3,150,75,5,Returning,Wallet
+ORD401,2024-07-16,P018,Pav Bhaji,Meals,2,180,95,0,New,Cash
+ORD402,2024-07-17,P002,Veg Pizza,Meals,2,250,140,15,Returning,UPI
+ORD403,2024-07-18,P021,Chocolate Shake,Beverages,3,160,65,10,New,Card
+ORD404,2024-07-19,P024,Chicken Tikka,Meals,3,280,150,0,Returning,Wallet
+ORD405,2024-07-20,P013,Samosa,Snacks,12,30,10,0,New,Cash
+ORD406,2024-08-01,P017,Green Tea,Beverages,8,70,15,0,Returning,UPI
+ORD407,2024-08-02,P005,Paneer Wrap,Meals,3,160,85,20,New,Card
+ORD408,2024-08-03,P009,Lemon Soda,Beverages,6,80,20,0,Returning,Wallet
+ORD409,2024-08-04,P007,Masala Chips,Snacks,7,60,18,0,New,Cash
+ORD410,2024-08-05,P010,Pasta Alfredo,Meals,1,220,120,25,Returning,UPI
+ORD411,2024-08-06,P004,French Fries,Snacks,10,80,25,5,New,Card
+ORD412,2024-08-07,P023,Veg Noodles,Meals,3,140,65,10,Returning,Wallet
+ORD413,2024-08-08,P019,Popcorn,Snacks,6,50,15,0,New,Cash
+ORD414,2024-08-09,P020,Strawberry Shake,Beverages,3,160,60,15,Returning,UPI
+ORD415,2024-08-10,P022,Dal Makhani,Meals,2,200,110,0,New,Card
+ORD416,2024-08-11,P001,Chicken Burger,Meals,5,180,90,0,Returning,Wallet
+ORD417,2024-08-12,P003,Cold Coffee,Beverages,5,120,40,10,New,Cash
+ORD418,2024-08-13,P015,Biryani,Meals,2,320,180,20,Returning,UPI
+ORD419,2024-08-14,P016,Chicken Wings,Snacks,5,120,50,0,New,Card
+ORD420,2024-08-15,P006,Mango Shake,Beverages,4,150,55,25,Returning,Wallet
+ORD421,2024-08-16,P011,Nachos,Snacks,5,90,30,0,New,Cash
+ORD422,2024-08-17,P014,Iced Tea,Beverages,7,90,25,5,Returning,UPI
+ORD423,2024-08-18,P008,Veg Burger,Meals,3,150,75,10,New,Card
+ORD424,2024-08-19,P018,Pav Bhaji,Meals,2,180,95,0,Returning,Wallet
+ORD425,2024-08-20,P002,Veg Pizza,Meals,1,250,140,20,New,Cash
+ORD426,2024-09-01,P021,Chocolate Shake,Beverages,4,160,65,0,Returning,UPI
+ORD427,2024-09-02,P024,Chicken Tikka,Meals,3,280,150,15,New,Card
+ORD428,2024-09-03,P013,Samosa,Snacks,15,30,10,0,Returning,Wallet
+ORD429,2024-09-04,P017,Green Tea,Beverages,7,70,15,0,New,Cash
+ORD430,2024-09-05,P005,Paneer Wrap,Meals,2,160,85,10,Returning,UPI
+ORD431,2024-09-06,P009,Lemon Soda,Beverages,6,80,20,0,New,Card
+ORD432,2024-09-07,P007,Masala Chips,Snacks,8,60,18,0,Returning,Wallet
+ORD433,2024-09-08,P010,Pasta Alfredo,Meals,2,220,120,25,New,Cash
+ORD434,2024-09-09,P004,French Fries,Snacks,10,80,25,5,Returning,UPI
+ORD435,2024-09-10,P023,Veg Noodles,Meals,3,140,65,20,New,Card
+ORD436,2024-09-11,P019,Popcorn,Snacks,6,50,15,0,Returning,Wallet
+ORD437,2024-09-12,P020,Strawberry Shake,Beverages,3,160,60,0,New,Cash
+ORD438,2024-09-13,P022,Dal Makhani,Meals,2,200,110,10,Returning,UPI
+ORD439,2024-09-14,P001,Chicken Burger,Meals,5,180,90,0,New,Card
+ORD440,2024-09-15,P003,Cold Coffee,Beverages,5,120,40,15,Returning,Wallet
+ORD441,2024-09-16,P015,Biryani,Meals,3,320,180,0,New,Cash
+ORD442,2024-09-17,P016,Chicken Wings,Snacks,6,120,50,20,Returning,UPI
+ORD443,2024-09-18,P006,Mango Shake,Beverages,4,150,55,0,New,Card
+ORD444,2024-09-19,P011,Nachos,Snacks,5,90,30,10,Returning,Wallet
+ORD445,2024-09-20,P014,Iced Tea,Beverages,8,90,25,0,New,Cash
+ORD446,2024-10-01,P008,Veg Burger,Meals,3,150,75,0,Returning,UPI
+ORD447,2024-10-02,P018,Pav Bhaji,Meals,3,180,95,15,New,Card
+ORD448,2024-10-03,P002,Veg Pizza,Meals,2,250,140,25,Returning,Wallet
+ORD449,2024-10-04,P021,Chocolate Shake,Beverages,4,160,65,0,New,Cash
+ORD450,2024-10-05,P024,Chicken Tikka,Meals,3,280,150,10,Returning,UPI
+ORD451,2024-10-06,P013,Samosa,Snacks,15,30,10,0,New,Card
+ORD452,2024-10-07,P017,Green Tea,Beverages,8,70,15,0,Returning,Wallet
+ORD453,2024-10-08,P005,Paneer Wrap,Meals,3,160,85,20,New,Cash
+ORD454,2024-10-09,P009,Lemon Soda,Beverages,7,80,20,0,Returning,UPI
+ORD455,2024-10-10,P007,Masala Chips,Snacks,8,60,18,5,New,Card
+ORD456,2024-10-11,P010,Pasta Alfredo,Meals,2,220,120,25,Returning,Wallet
+ORD457,2024-10-12,P004,French Fries,Snacks,10,80,25,10,New,Cash
+ORD458,2024-10-13,P023,Veg Noodles,Meals,3,140,65,0,Returning,UPI
+ORD459,2024-10-14,P019,Popcorn,Snacks,7,50,15,0,New,Card
+ORD460,2024-10-15,P020,Strawberry Shake,Beverages,3,160,60,15,Returning,Wallet
+ORD461,2024-10-16,P022,Dal Makhani,Meals,2,200,110,0,New,Cash
+ORD462,2024-10-17,P001,Chicken Burger,Meals,6,180,90,0,Returning,UPI
+ORD463,2024-10-18,P003,Cold Coffee,Beverages,5,120,40,10,New,Card
+ORD464,2024-10-19,P015,Biryani,Meals,3,320,180,20,Returning,Wallet
+ORD465,2024-10-20,P016,Chicken Wings,Snacks,6,120,50,0,New,Cash
+ORD466,2024-11-01,P006,Mango Shake,Beverages,5,150,55,25,Returning,UPI
+ORD467,2024-11-02,P011,Nachos,Snacks,5,90,30,0,New,Card
+ORD468,2024-11-03,P014,Iced Tea,Beverages,8,90,25,5,Returning,Wallet
+ORD469,2024-11-04,P008,Veg Burger,Meals,4,150,75,0,New,Cash
+ORD470,2024-11-05,P018,Pav Bhaji,Meals,3,180,95,10,Returning,UPI
+ORD471,2024-11-06,P002,Veg Pizza,Meals,2,250,140,15,New,Card
+ORD472,2024-11-07,P021,Chocolate Shake,Beverages,4,160,65,0,Returning,Wallet
+ORD473,2024-11-08,P024,Chicken Tikka,Meals,3,280,150,20,New,Cash
+ORD474,2024-11-09,P013,Samosa,Snacks,15,30,10,0,Returning,UPI
+ORD475,2024-11-10,P017,Green Tea,Beverages,9,70,15,0,New,Card
+ORD476,2024-11-11,P005,Paneer Wrap,Meals,3,160,85,5,Returning,Wallet
+ORD477,2024-11-12,P009,Lemon Soda,Beverages,7,80,20,0,New,Cash
+ORD478,2024-11-13,P007,Masala Chips,Snacks,8,60,18,0,Returning,UPI
+ORD479,2024-11-14,P010,Pasta Alfredo,Meals,2,220,120,25,New,Card
+ORD480,2024-11-15,P004,French Fries,Snacks,12,80,25,5,Returning,Wallet
+ORD481,2024-11-16,P023,Veg Noodles,Meals,3,140,65,10,New,Cash
+ORD482,2024-11-17,P019,Popcorn,Snacks,7,50,15,0,Returning,UPI
+ORD483,2024-11-18,P020,Strawberry Shake,Beverages,4,160,60,20,New,Card
+ORD484,2024-11-19,P022,Dal Makhani,Meals,3,200,110,0,Returning,Wallet
+ORD485,2024-11-20,P001,Chicken Burger,Meals,6,180,90,15,New,Cash
+ORD486,2024-12-01,P003,Cold Coffee,Beverages,6,120,40,0,Returning,UPI
+ORD487,2024-12-02,P015,Biryani,Meals,4,320,180,0,New,Card
+ORD488,2024-12-03,P016,Chicken Wings,Snacks,7,120,50,10,Returning,Wallet
+ORD489,2024-12-04,P006,Mango Shake,Beverages,5,150,55,0,New,Cash
+ORD490,2024-12-05,P011,Nachos,Snacks,6,90,30,20,Returning,UPI
+ORD491,2024-12-06,P014,Iced Tea,Beverages,8,90,25,0,New,Card
+ORD492,2024-12-07,P008,Veg Burger,Meals,4,150,75,5,Returning,Wallet
+ORD493,2024-12-08,P018,Pav Bhaji,Meals,3,180,95,0,New,Cash
+ORD494,2024-12-09,P002,Veg Pizza,Meals,2,250,140,25,Returning,UPI
+ORD495,2024-12-10,P021,Chocolate Shake,Beverages,4,160,65,10,New,Card
+ORD496,2024-12-11,P024,Chicken Tikka,Meals,4,280,150,0,Returning,Wallet
+ORD497,2024-12-12,P013,Samosa,Snacks,20,30,10,0,New,Cash
+ORD498,2024-12-13,P017,Green Tea,Beverages,9,70,15,0,Returning,UPI
+ORD499,2024-12-14,P005,Paneer Wrap,Meals,3,160,85,15,New,Card
+ORD500,2024-12-15,P009,Lemon Soda,Beverages,8,80,20,0,Returning,Wallet
+ORD501,2024-12-16,P010,Pasta Alfredo,Meals,2,220,120,25,New,Cash
+ORD502,2024-12-17,P004,French Fries,Snacks,12,80,25,5,Returning,UPI
+ORD503,2024-12-18,P007,Masala Chips,Snacks,9,60,18,0,New,Card
+ORD504,2024-12-19,P023,Veg Noodles,Meals,3,140,65,10,Returning,Wallet
+ORD505,2024-12-20,P019,Popcorn,Snacks,8,50,15,0,New,Cash
+ORD506,2024-12-21,P020,Strawberry Shake,Beverages,4,160,60,20,Returning,UPI
+ORD507,2024-12-22,P022,Dal Makhani,Meals,3,200,110,0,New,Card
+ORD508,2024-12-23,P001,Chicken Burger,Meals,6,180,90,0,Returning,Wallet
+ORD509,2024-12-24,P015,Biryani,Meals,4,320,180,15,New,Cash
+ORD510,2024-12-25,P003,Cold Coffee,Beverages,6,120,40,0,Returning,UPI
