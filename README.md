@@ -13,6 +13,9 @@ These are supplementary practice projects. For my main end-to-end analytics work
 ### 🔄 [Boxify — Churn Analysis](Boxify-Churn-Analysis)
 Subscription platform churn analysis — customer segment performance, engagement vs. churn correlation, and potential-churner risk scoring.
 
+### 🏬 [FashionWave — Retail Store Analysis](FashionWave-Retail-Store-Analysis)
+Retail store performance analysis across products, regions, and sales trends.
+
 ### 📣 [GlowUp — Marketing Campaign Analysis](GlowUp-Marketing-Campaign-Analysis)
 Campaign and channel performance analysis — ROI by channel, marketing budget allocation, and seasonal spend strategy.
 
@@ -21,9 +24,6 @@ Online food store sales analysis — product category performance, discount impa
 
 ### 🧸 [ToyJoy — Inventory Analysis](ToyJoy-Inventory-Analysis)
 Inventory and demand analysis — seasonal demand patterns, excess inventory/overstock, and reorder strategy optimization.
-
-### 🏬 [FashionWave — Retail Store Analysis](FashionWave-Retail-Store-Analysis)
-Retail store performance analysis across products, regions, and sales trends.
 
 ---
 
